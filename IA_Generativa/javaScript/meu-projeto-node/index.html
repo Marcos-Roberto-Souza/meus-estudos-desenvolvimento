@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <title> Cálculo de Salário </title>
+    <style>
+        body{
+            font-family: Arial, sans-serif;
+        }
+        
+        .campo{
+            margin-bottom: 10px;
+        }
+
+        label{
+            display: block;
+            font-weight: bold;
+        }
+    </style>
+</head>
+
+<body>
+    <h1> Cálculo de Salário</h1>
+
+    <div class="campo">
+        <label for = "salario"> Salário </label>
+        <input type = "number" id="salario" placeholder ="Digite o valor do Salário">
+    </div>
+
+    <div class="campo">
+        <label for = "beneficio"> Beneficio </label>
+        <input type = "number" id="beneficio" placeholder ="Digite o valor do Benefício">
+    </div>
+    <br>
+
+    <button onclick="calcular()">Calcular</button>
+    <br><br>
+
+    <div class="campo">
+        <label for="resultado">Resultado:</label>
+        <input type="text" id="resultado" readonly>
+    </div>
+
+    <script>
+        function calcular() {
+            const salario = document.getElementById("salario").value;
+            const beneficio = document.getElementById("beneficio").value;
+
+            fetch(`/calcular?salario=${salario}&beneficio=${beneficio}`)
+                .then(res => res.text())
+                .then(valor => {
+                    document.getElementById("resultado").value = valor;
+                                        
+                });
+        }
+    </script>
+</body>
+
+</html>

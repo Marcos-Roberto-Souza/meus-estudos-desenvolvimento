@@ -1,0 +1,44 @@
+<mxfile host="Electron">
+  <diagram name="Página-1" id="Rkap4iUM5owJL-8vyeYF">
+    <mxGraphModel dx="1078" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="d3omJjOhH7Y5qc4mdfSd-9" edge="1" parent="1" source="d3omJjOhH7Y5qc4mdfSd-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=open;endFill=0;" target="d3omJjOhH7Y5qc4mdfSd-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d3omJjOhH7Y5qc4mdfSd-10" connectable="0" parent="d3omJjOhH7Y5qc4mdfSd-9" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="TEM - UM" vertex="1">
+          <mxGeometry relative="1" x="-0.1437" y="2" as="geometry">
+            <mxPoint x="-26" y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d3omJjOhH7Y5qc4mdfSd-2" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;b&gt;IObservable&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ add(IObserver : IObservable): Void&lt;br&gt;+ remove (IObserver : IObserver) : void&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ notify() : void&lt;/p&gt;" vertex="1">
+          <mxGeometry height="130" width="220" x="40" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="d3omJjOhH7Y5qc4mdfSd-3" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;b&gt;IObserver&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ update() : Void&lt;br&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="70" width="145" x="427.5" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d3omJjOhH7Y5qc4mdfSd-6" edge="1" parent="1" source="d3omJjOhH7Y5qc4mdfSd-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=block;endFill=0;dashed=1;" target="d3omJjOhH7Y5qc4mdfSd-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d3omJjOhH7Y5qc4mdfSd-4" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;ConcreteObservable&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ add(IObserver : IObservable): Void&lt;br&gt;+ remove (IObserver : IObserver) : void&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ notify() : void&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ getState() : void&lt;/p&gt;" vertex="1">
+          <mxGeometry height="130" width="220" x="40" y="284" as="geometry" />
+        </mxCell>
+        <mxCell id="d3omJjOhH7Y5qc4mdfSd-5" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;ConcreteObserver&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ update() : Void&lt;br&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="66" width="170" x="415" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="d3omJjOhH7Y5qc4mdfSd-7" edge="1" parent="1" source="d3omJjOhH7Y5qc4mdfSd-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=open;endFill=0;entryX=1.009;entryY=0.646;entryDx=0;entryDy=0;entryPerimeter=0;" target="d3omJjOhH7Y5qc4mdfSd-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d3omJjOhH7Y5qc4mdfSd-8" edge="1" parent="1" source="d3omJjOhH7Y5qc4mdfSd-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=block;endFill=0;dashed=1;" target="d3omJjOhH7Y5qc4mdfSd-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="499.5" y="314" as="sourcePoint" />
+            <mxPoint x="499.5" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

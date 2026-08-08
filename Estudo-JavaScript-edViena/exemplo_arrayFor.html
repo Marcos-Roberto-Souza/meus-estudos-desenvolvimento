@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+</head>
+
+<body>
+    <script type="text/javascript">
+
+        var motocicletas = ["Honda", "Yamaha", "Suzuki", "Kawasaki", "Ducati", "Harley-Davidson", "BMW", "Triumph", "KTM", "Aprilia"];
+        // A estrutura de repetição for é utilizada para percorrer os elementos do array motocicletas e exibir cada um deles na tela.
+        for (var i = 0; i < motocicletas.length; i++) {
+            document.write("Motocicleta: " + motocicletas[i] + "<br>");
+        }
+
+        motocicletas[motocicletas.length] = "Royal Enfield"; // Adiciona um novo elemento ao final do array motocicletas
+        document.write("<br><br><br> Nova motocicleta adicionada: " + motocicletas[motocicletas.length - 1] + "<br><br>"); // Exibe a nova motocicleta adicionada
+
+        document.write("Lista atualizada de motocicletas:<br><br>");
+        for (var i = 0; i < motocicletas.length; i++) {
+            document.write(" Motocicleta: " + motocicletas[i] + "<br>");// Exibe a lista atualizada de motocicletas, incluindo a nova adição.
+        }
+
+        
+
+        document.write("<br><br><br> Quantidade de elementos do array motocicletas: " + motocicletas.valueOf()); // Exibe os elementos do array separados por vírgula.
+
+    </script>
+
+</body>
+
+</html>

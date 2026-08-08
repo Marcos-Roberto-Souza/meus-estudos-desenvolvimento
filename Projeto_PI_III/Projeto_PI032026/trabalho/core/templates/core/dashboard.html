@@ -1,0 +1,79 @@
+{% extends "base.html" %}
+{% block title %}Dashboard{% endblock %}
+
+{% block content %}
+<h2 class="mb-4">Dashboard do Gestor</h2>
+
+<form method="get" class="row g-2 mb-4">
+  <div class="col-md-3">
+    <input type="date" name="data_inicio" value="{{ data_inicio }}" class="form-control">
+  </div>
+  <div class="col-md-3">
+    <input type="date" name="data_fim" value="{{ data_fim }}" class="form-control">
+  </div>
+  <div class="col-md-2">
+    <button class="btn btn-primary w-100">Filtrar</button>
+  </div>
+</form>
+
+<div class="row mb-4">
+  <div class="col-md-3">
+    <div class="card text-bg-success">
+      <div class="card-body">
+        <h6>Faturamento Hoje</h6>
+        <h4>R$ {{ faturamento_dia }}</h4>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-md-3">
+    <div class="card text-bg-primary">
+      <div class="card-body">
+        <h6>Faturamento do Mês</h6>
+        <h4>R$ {{ faturamento_mes }}</h4>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-md-3">
+    <div class="card text-bg-dark">
+      <div class="card-body">
+        <h6>Faturamento Anual</h6>
+        <h4>R$ {{ faturamento_ano }}</h4>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-md-3">
+    <div class="card text-bg-secondary">
+      <div class="card-body">
+        <h6>Clientes</h6>
+        <h4>{{ clientes_count }}</h4>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="card p-4">
+  <h5>Produtos mais vendidos</h5>
+  <canvas id="graficoProdutos"></canvas>
+</div>
+
+<script>
+const ctx = document.getElementById('graficoProdutos');
+new Chart(ctx, {
+  type: 'bar',
+  data: {
+    labels: {{ labels_produtos|safe }},
+    datasets: [{
+      data: {{ valores_produtos|safe }},
+      backgroundColor: '#2563eb'
+    }]
+  },
+  options: {
+    responsive: true,
+    plugins: { legend: { display: false } }
+  }
+});
+</script>
+{% endblock %}

@@ -1,0 +1,10 @@
+LOGIN OUTSYSTEM
+
+EMAIL: residencia_03@ecoa.puc-rio.br
+SENHA: Senha: OutSystems03@#!
+
+LOGIN GMAIL
+
+Email: residencia_03@ecoa.puc-rio.br
+Senha: LowCode03@#!
+

@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <script type="text/javascript">
+
+        var motocicletas = {
+            marca: "Honda",
+            modelo: "CBR600RR",
+            ano: 2020,
+            cor: "Vermelha",
+            getDetalhes: function () {
+                return "MARCA: " + this.marca + "<br>MODELO: " + this.modelo + "<br> COR: " + this.cor + "<br> ANO:  " + this.ano; // Retorna uma string com os detalhesda motocicleta.
+            }
+        };
+        document.write(motocicletas.getDetalhes()); // Exibe os detalhes da motocicleta.
+    </script>
+</body>
+
+</html>

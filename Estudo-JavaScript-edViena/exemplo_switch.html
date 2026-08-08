@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exemplo Switch</title>
+
+</head>
+
+<body>
+    <script type="text/javascript">
+        var numDia = prompt("Informe o número da semana: Domingo = 0, Segunda=1, Terça=2, Quarta=3, Quinta=4, Sexta=5, Sábado=6");
+
+        switch (numDia) {
+            case "0":
+                dia = "Domingo";
+                break;
+            case "1":
+                dia = "Segunda-feira";
+                break;
+            case "2":
+                dia = "Terça-feira";
+                break;
+            case "3":
+                dia = "Quarta-feira";
+                break;
+            case "4":
+                dia = "Quinta-feira";
+                break;
+            case "5":
+                dia = "Sexta-feira";
+                break;
+            case "6":
+                dia = "Sábado";
+                break;
+        }
+        document.write("Hoje é: " + dia);
+
+    </script>
+
+</body>
+
+</html>

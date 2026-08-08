@@ -1,0 +1,30 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-size: 14px;
+}
+
+[class*="col-"]{
+    float: left;
+    box-sizing: border-box;
+}
+
+.imgResponsiva{
+    width: 100%;
+}
+
+.destinos div{
+    padding: 5px;
+}
+
+.destinos figure{
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.destinos p{
+    text-align: center;
+    border-radius: 5px;
+}

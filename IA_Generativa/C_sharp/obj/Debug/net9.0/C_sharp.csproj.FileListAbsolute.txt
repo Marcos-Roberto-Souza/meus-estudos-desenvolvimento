@@ -1,0 +1,15 @@
+F:\Para_meus_estudos\IA_Generativa\C_sharp\bin\Debug\net9.0\C_sharp.exe
+F:\Para_meus_estudos\IA_Generativa\C_sharp\bin\Debug\net9.0\C_sharp.deps.json
+F:\Para_meus_estudos\IA_Generativa\C_sharp\bin\Debug\net9.0\C_sharp.runtimeconfig.json
+F:\Para_meus_estudos\IA_Generativa\C_sharp\bin\Debug\net9.0\C_sharp.dll
+F:\Para_meus_estudos\IA_Generativa\C_sharp\bin\Debug\net9.0\C_sharp.pdb
+F:\Para_meus_estudos\IA_Generativa\C_sharp\obj\Debug\net9.0\C_sharp.GeneratedMSBuildEditorConfig.editorconfig
+F:\Para_meus_estudos\IA_Generativa\C_sharp\obj\Debug\net9.0\C_sharp.AssemblyInfoInputs.cache
+F:\Para_meus_estudos\IA_Generativa\C_sharp\obj\Debug\net9.0\C_sharp.AssemblyInfo.cs
+F:\Para_meus_estudos\IA_Generativa\C_sharp\obj\Debug\net9.0\C_sharp.csproj.CoreCompileInputs.cache
+F:\Para_meus_estudos\IA_Generativa\C_sharp\obj\Debug\net9.0\C_sharp.sourcelink.json
+F:\Para_meus_estudos\IA_Generativa\C_sharp\obj\Debug\net9.0\C_sharp.dll
+F:\Para_meus_estudos\IA_Generativa\C_sharp\obj\Debug\net9.0\refint\C_sharp.dll
+F:\Para_meus_estudos\IA_Generativa\C_sharp\obj\Debug\net9.0\C_sharp.pdb
+F:\Para_meus_estudos\IA_Generativa\C_sharp\obj\Debug\net9.0\C_sharp.genruntimeconfig.cache
+F:\Para_meus_estudos\IA_Generativa\C_sharp\obj\Debug\net9.0\ref\C_sharp.dll

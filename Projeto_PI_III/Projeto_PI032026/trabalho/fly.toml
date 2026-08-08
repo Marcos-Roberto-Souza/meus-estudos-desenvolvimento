@@ -1,0 +1,30 @@
+# fly.toml app configuration file for trabalho-pi03-long-tree-8781
+
+app = 'trabalho-pi03-long-tree-8781'
+primary_region = 'gru'
+
+[build]
+
+[env]
+  PORT = '8000'
+
+[processes]
+# Gunicorn escutando em 0.0.0.0 e porta passada pelo Fly
+app = "gunicorn --bind 0.0.0.0:$PORT --workers 2 pedidos.wsgi:application"
+
+[http_service]
+  internal_port = 8000
+  force_https = true
+  auto_stop_machines = 'stop'
+  auto_start_machines = true
+  min_machines_running = 1
+  processes = ['app']
+
+[[vm]]
+  memory = '1gb'
+  cpu_kind = 'shared'
+  cpus = 1
+
+[[statics]]
+  guest_path = '/code/staticfiles'
+  url_prefix = '/static/'

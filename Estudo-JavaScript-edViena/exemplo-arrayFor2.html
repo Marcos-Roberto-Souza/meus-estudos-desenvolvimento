@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="pt">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <p> Será retornada uma string com os elementos e outra abaixo com elementos separdos por vírgula. </p>
+
+    <button onclick="ordenar()">Ordenar em ordem alfabética alfabética</button>
+
+    <button onclick="deletar()">Deletar último elemento</button>
+
+    <button onclick="adicionar()">Adicionar motocicleta</button>
+
+    <p id="resultado"></p>
+
+    <script type="text/javascript">
+        var motocicletas = ["Honda ", " Yamaha ", " Suzuki ", " Kawasaki ", "BMW"]; // Declaração de um array chamado 'motocicletas' com quatro elementos.
+        document.getElementById("resultado").innerHTML = motocicletas; // Exibe os elementos do array 'motocicletas' no elemento HTML com id 'resultado'.
+
+        function ordenar() {
+            if (motocicletas.length > 0) {
+                motocicletas.sort(); // Ordena os elementos do array 'motocicletas' em ordem alfabética.
+                document.getElementById("resultado").innerHTML = "Elementos do array: " + motocicletas; // Exibe os elementos do array 'motocicletas' no elemento HTML com id 'resultado'.
+            } else {
+                document.getElementById("resultado").innerHTML = "O array está vazio não da para ordenar Insira mais itens."; // Exibe uma mensagem indicando que o array está vazio.
+            }
+        }
+        function deletar() {
+            if (motocicletas.length > 0) {
+                motocicletas.pop(); // Remove o último elemento do array 'motocicletas'.
+                document.getElementById("resultado").innerHTML = "Elementos do array: " + motocicletas; // Exibe os elementos do array 'motocicletas' no elemento HTML com id 'resultado'.
+            } else {
+                document.getElementById("resultado").innerHTML = "O array está vazio."; // Exibe uma mensagem indicando que o array está vazio.
+            }
+            // Adiciona o elemento "Ducati" ao final do array 'motocicletas'.
+            // Exibe os elementos do array 'motocicletas' no elemento HTML
+
+
+        }
+        function adicionar() {
+            var novaMotocicleta = prompt("Digite o nome da nova motocicleta:"); // Solicita ao usuário que insira o nome de uma nova motocicleta e armazena o valor na variável 'novaMotocicleta'.
+            motocicletas.push(novaMotocicleta); // Adiciona o elemento "novo" ao final do array 'motocicletas'.
+            document.getElementById("resultado").innerHTML = "Elementos do array: " + motocicletas; // Exibe os elementos do array 'motocicletas' no elemento HTML com id 'resultado'.
+        }
+
+    </script>
+</body>
+
+</html>

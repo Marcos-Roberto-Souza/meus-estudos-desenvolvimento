@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script type="text/javascript">
+        var meuNome = prompt("Qual é o seu Nome?");
+        var minhaIdade = prompt("Qual é a sua Idade?");
+        var anoAtual = prompt("Em que ano Estamos?");
+        var anoNascimento = anoAtual - minhaIdade;
+
+
+        alert("Seu Nome é: " + meuNome + "\nSua idade é: " + minhaIdade + "\nSeu ano de nascimento é: " + anoNascimento);
+
+        if(minhaIdade < 12){
+            alert("Você é uma criança!");
+        }else if(minhaIdade >=12 && minhaIdade<18){
+            alert("Você é um adolescente!");
+        }else if(minhaIdade >=18 && minhaIdade < 40){
+            alert("Você é um adulto!");
+        }else if(minhaIdade >= 40 && minhaIdade < 50){
+            alert("Você é Coroa!");
+        }else if(minhaIdade >= 50 && minhaIdade < 60){
+            alert("Você é um senhor chegando na velhice!");
+        }else if (minhaIdade >= 60){
+            alert("Você é um idoso!");
+        }
+
+    </script>
+        
+</body>
+</html>

@@ -1,0 +1,71 @@
+Vou listar alguns livros e autores relevantes que contribuíram com conceitos e práticas utilizadas neste projeto:
+Desenvolvimento Web com Django
+Autor: Adrian Holovaty, Jacob Kaplan-Moss
+Livro: "The Definitive Guide to Django: Web Development Done Right"
+Contribuição: Fundamentos do Django, arquitetura MVC, templates e forms
+Design de Interfaces Web
+Autor: Luke Wroblewski
+Livro: "Mobile First"
+Contribuição: Conceitos de design responsivo e experiência do usuário
+Padrões de Projeto
+Autor: Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides
+Livro: "Design Patterns: Elements of Reusable Object-Oriented Software"
+Contribuição: Padrões de projeto utilizados no código
+Banco de Dados
+Autor: C.J. Date
+Livro: "An Introduction to Database Systems"
+Contribuição: Modelagem de dados e relacionamentos
+Segurança Web
+Autor: Andrew Hoffman
+Livro: "Web Application Security"
+Contribuição: Práticas de segurança implementadas
+JavaScript Moderno
+Autor: Kyle Simpson
+Livro: "You Don't Know JS"
+Contribuição: Funcionalidades JavaScript do frontend
+Bootstrap
+Autor: Mark Otto, Jacob Thornton
+Documentação Oficial do Bootstrap
+Contribuição: Framework CSS utilizado no projeto
+Python
+Autor: Luciano Ramalho
+Livro: "Python Fluente"
+Contribuição: Boas práticas de programação Python
+Testes de Software
+Autor: Kent Beck
+Livro: "Test-Driven Development: By Example"
+Contribuição: Metodologias de teste
+Arquitetura de Software
+Autor: Robert C. Martin
+Livro: "Clean Architecture"
+Contribuição: Organização do código e boas práticas
+UX/UI Design
+Autor: Don Norman
+Livro: "The Design of Everyday Things"
+Contribuição: Princípios de usabilidade
+Gerenciamento de Projetos
+Autor: Eric Ries
+Livro: "The Lean Startup"
+Contribuição: Metodologias ágeis
+Versionamento de Código
+Autor: Scott Chacon, Ben Straub
+Livro: "Pro Git"
+Contribuição: Controle de versão
+APIs REST
+Autor: Leonard Richardson, Mike Amundsen
+Livro: "RESTful Web APIs"
+Contribuição: Conceitos de API
+Performance Web
+Autor: Steve Souders
+Livro: "High Performance Web Sites"
+Contribuição: Otimização de performance
+Estes livros e autores contribuíram com:
+Arquitetura do sistema
+Padrões de projeto
+Segurança
+Interface do usuário
+Banco de dados
+Performance
+Boas práticas de programação
+Metodologias de desenvolvimento
+Quer que eu detalhe mais sobre algum desses tópicos ou autores específicos?

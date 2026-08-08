@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="csrf-token" content="{{ csrf_token }}">
+    <title>KDS - Cozinha</title>
+    <style>
+      /* ==============================
+                    KDS – ESTILO PROFISSIONAL
+                     ============================== */
+      
+      :root {
+        --bg-main: #e5e5ea;
+        --bg-card: #f0f0f5;
+      
+        --border-pendente: #f6c90e;
+        --border-preparando: #007bff;
+        --border-finalizado: #28a745;
+      
+        --text-main: #222;
+        --text-muted: #555;
+      
+        --btn-preparar: #007bff;
+        --btn-finalizar: #28a745;
+      
+        --shadow: 0 6px 14px rgba(0, 0, 0, 0.15);
+      }
+      
+      /* ==============================
+              PULSE STYLE – KDS
+         ============================== */
+      
+      @keyframes pulse-pendente {
+        0% {
+          box-shadow: 0 0 0 0 rgba(246, 201, 14, 0.6);
+        }
+        70% {
+          box-shadow: 0 0 0 14px rgba(246, 201, 14, 0);
+        }
+        100% {
+          box-shadow: 0 0 0 0 rgba(246, 201, 14, 0);
+        }
+      }
+      
+      /* Aplica pulse apenas em pedidos pendentes */
+      .pedido.pendente {
+        animation: pulse 1.8s infinite;
+      }
+
+      @keyframes pulse-preparando {
+        0% {
+          box-shadow: 0 0 0 0 rgba(15, 33, 194, 0.6);
+        }
+        70% {
+          box-shadow: 0 0 0 14px rgba(72, 103, 104, 0);
+        }
+        100% {
+          box-shadow: 0 0 0 0 rgba(184, 173, 132, 0);
+        }
+      }
+      .pedido.preparando{
+        animation: pulse 2.0s infinite;
+      }
+      
+      /* Reset básico */
+      * {
+        box-sizing: border-box;
+      }
+      
+      body {
+        margin: 0;
+        padding: 24px;
+        background-color: var(--bg-main);
+        color: var(--text-main);
+        font-family: 'Segoe UI', Roboto, Arial, sans-serif;
+      }
+      
+      /* Título */
+      h1 {
+        text-align: center;
+        font-size: 36px;
+        margin-bottom: 24px;
+        letter-spacing: 1px;
+      }
+      
+      /* Grid do KDS */
+      .kds-container {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+        gap: 24px;
+      }
+      
+      /* Card do pedido */
+      .pedido {
+        background-color: var(--bg-card);
+        border-radius: 18px;
+        padding: 20px 18px 18px;
+        border-left: 10px solid var(--border-pendente);
+        box-shadow: var(--shadow);
+        display: flex;
+        flex-direction: column;
+        gap: 14px;
+        animation: fadeIn 0.3s ease-in-out;
+      }
+      
+      /* Status por cor */
+      .pedido.pendente {
+        border-left-color: var(--border-pendente);
+      }
+      
+      .pedido.preparando {
+        border-left-color: var(--border-preparando);
+      }
+      
+      .pedido.finalizado {
+        border-left-color: var(--border-finalizado);
+      }
+      
+      /* Cabeçalho do pedido */
+      .pedido h2 {
+        font-size: 26px;
+        margin: 0;
+        font-weight: 700;
+      }
+      
+      /* Lista de itens */
+      .pedido ul {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+      }
+      
+      .pedido li {
+        font-size: 20px;
+        padding: 8px 0;
+        border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+      }
+      
+      /* Último item sem borda */
+      .pedido li:last-child {
+        border-bottom: none;
+      }
+      
+      /* Status */
+      .status {
+        font-size: 16px;
+        font-weight: 600;
+        color: var(--text-muted);
+      }
+      
+      /* Formulário do KDS */
+      form {
+        display: flex;
+        gap: 12px;
+        margin-top: 10px;
+      }
+      
+      /* Botões */
+      button {
+        flex: 1;
+        padding: 14px 10px;
+        font-size: 18px;
+        font-weight: 700;
+        border: none;
+        border-radius: 12px;
+        cursor: pointer;
+        transition: transform 0.1s ease, opacity 0.1s ease;
+      }
+      
+      /* Botão preparar */
+      button.preparar {
+        background-color: var(--btn-preparar);
+        color: #000;
+      }
+      
+      /* Botão finalizar */
+      button.finalizar {
+        background-color: var(--btn-finalizar);
+        color: #000;
+      }
+      
+      /* Feedback visual */
+      button:hover {
+        transform: scale(1.04);
+        opacity: 0.95;
+      }
+      
+      button:active {
+        transform: scale(0.98);
+      }
+      
+      /* Animação de entrada */
+      @keyframes fadeIn {
+        from {
+          opacity: 0;
+          transform: translateY(10px);
+        }
+        to {
+          opacity: 1;
+          transform: translateY(0);
+        }
+      }
+      
+      /* Modo TV / telas grandes */
+      @media (min-width: 1600px) {
+        h1 {
+          font-size: 42px;
+        }
+      
+        .pedido h2 {
+          font-size: 30px;
+        }
+      
+        .pedido li {
+          font-size: 22px;
+        }
+      }
+    </style>
+  </head>
+
+  <body>
+    <h1>🍳 KDS - Cozinha 👨‍🍳</h1>
+
+    <div class="kds-container">
+      {% for pedido in pedidos %}
+        <div class="pedido {{ pedido.status }}" id="pedido-{{ pedido.id }}">
+          <h2>
+            Pedido {{ pedido.numero_pedido }}
+            {% if pedido.mesa %}
+              - Mesa {{ pedido.mesa }}
+            {% endif %}
+          </h2>
+
+          <ul>
+            {% for item in pedido.itens_pedido.all %}
+              <li>{{ item.quantidade }}x {{ item.produto.nome }}</li>
+            {% endfor %}
+          </ul>
+
+          <div class="status">Status: {{ pedido.get_status_display }}</div>
+
+          <!-- ✅ FORM DA COZINHA (LUGAR CORRETO) -->
+          <form method="post" action="{% url 'atualizar_status_pedido' pedido.id %}">
+            {% csrf_token %}
+
+            {% if pedido.status == 'pendente' %}
+              <button type="submit" name="status" value="preparando" class="btn preparar">👨‍🍳 Preparar</button>
+            {% endif %}
+
+            {% if pedido.status != 'finalizado' %}
+              <button type="submit" name="status" value="finalizado" class="btn finalizar">✅ Finalizar</button>
+            {% endif %}
+          </form>
+        </div>
+      {% empty %}
+        <p>Sem pedidos no momento.</p>
+      {% endfor %}
+    </div>
+
+    <script>
+      const protocol = window.location.protocol === 'https:' ? 'wss' : 'ws'
+      const socket = new WebSocket(protocol + '://' + window.location.host + '/ws/kds/')
+      
+      const csrfToken = document.querySelector('meta[name="csrf-token"]').getAttribute('content');
+      
+      socket.onmessage = function (e) {
+        const data = JSON.parse(e.data)
+      
+        if (data.tipo === 'pedido_novo') {
+          adicionarPedido(data)
+        }
+      
+        if (data.tipo === 'pedido_status_atualizado') {
+          atualizarStatusPedido(data)
+        }
+      }
+      
+      function adicionarPedido(data) {
+        const container = document.querySelector('.kds-container')
+      
+        const div = document.createElement('div')
+        div.className = 'pedido ' + data.status
+        div.id = 'pedido-' + data.id
+      
+        const itensHtml = data.itens.map((i) => `<li>${i}</li>`).join('')
+      
+        div.innerHTML = `
+                                <h2>Pedido ${data.pedido} - Mesa ${data.mesa ?? '-'}</h2>
+                                <ul>${itensHtml}</ul>
+                                <div class="status">Status: ${data.status}</div>
+                            `
+      
+        container.prepend(div)
+      
+        tocarSom()
+      }
+      
+      function atualizarStatusPedido(data) {
+        const pedidoDiv = document.getElementById('pedido-' + data.id)
+      
+        if (!pedidoDiv) {
+          console.warn('Pedido não encontrado no KDS: ', data.id)
+          return
+        }
+      
+        pedidoDiv.className = 'pedido ' + data.status
+        pedidoDiv.querySelector('.status').innerText = 'Status: ' + data.status
+      
+        // Remove do KDS se finalizado
+        if (data.status === 'finalizado') {
+          pedidoDiv.remove()
+        }
+      }
+      
+      function tocarSom() {
+        const audio = new Audio('/static/sounds/alerta.mp3')
+        audio.play()
+      }
+    </script>
+  </body>
+</html>

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8" />
+    <title>Login</title>
+
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+
+    <div class="login-container">
+        <form class="login-card" id="loginForm">
+            <h1>Bem-vindo</h1>
+            <p>Acesse sua conta</p>
+
+            <input type="email" id="email" placeholder="E-mail" required />
+
+            <input type="password" id="password" placeholder="Senha" required />
+
+            <button type="submit" id="loginBtn">Entrar</button>
+
+            <!-- ✅ ELEMENTO DE ERRO (OBRIGATÓRIO) -->
+            <span id="error" class="error"></span>
+
+            <div class="register-link">
+                <span>Não tem uma conta?</span>
+                <a href="../register/index.html">Registrar</a>
+            </div>
+        </form>
+    </div>
+
+    <script src="login.js" defer></script>
+</body>
+
+</html>

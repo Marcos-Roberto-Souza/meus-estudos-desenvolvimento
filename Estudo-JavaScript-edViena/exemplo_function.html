@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+</head>
+
+<body>
+    <script type="text/javascript">
+
+        var mensagem = function (mensagem) {
+            document.write(mensagem);
+        }
+
+        var minhaFuncao = function (num1, num2) {
+            if (num1 > num2) {
+                return (mensagem(num1 + " é maior que " + num2));
+            } else if (num2 > num1) {
+                return (mensagem(num2 + " é maior que " + num1));
+            } else {
+                return (mensagem("Os números são iguais."));
+            }
+        }
+
+        let x = parseInt(prompt("Digite um número"));
+        let y = parseInt(prompt("Digite outro número"));
+
+        minhaFuncao(x, y);
+    </script>
+
+
+</body>
+
+</html>

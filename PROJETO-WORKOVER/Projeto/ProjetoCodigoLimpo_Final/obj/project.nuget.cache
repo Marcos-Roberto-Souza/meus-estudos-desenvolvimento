@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "z0DaWP52TdA=",
+  "success": true,
+  "projectFilePath": "F:\\Para_meus_estudos\\PROJETO-WORKOVER\\Projeto\\ProjetoCodigoLimpo_Final\\ProjetoCodigoLimpo_Final.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MARCOSROBERTORODRIGU\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\10.0.7\\microsoft.extensions.dependencyinjection.10.0.7.nupkg.sha512",
+    "C:\\Users\\MARCOSROBERTORODRIGU\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.7\\microsoft.extensions.dependencyinjection.abstractions.10.0.7.nupkg.sha512",
+    "C:\\Users\\MARCOSROBERTORODRIGU\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.28\\microsoft.netcore.app.ref.8.0.28.nupkg.sha512",
+    "C:\\Users\\MARCOSROBERTORODRIGU\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.28\\microsoft.windowsdesktop.app.ref.8.0.28.nupkg.sha512",
+    "C:\\Users\\MARCOSROBERTORODRIGU\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.28\\microsoft.aspnetcore.app.ref.8.0.28.nupkg.sha512",
+    "C:\\Users\\MARCOSROBERTORODRIGU\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.28\\microsoft.netcore.app.host.win-x64.8.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}

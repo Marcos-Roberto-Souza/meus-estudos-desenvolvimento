@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exemplo de Array em JavaScript</title>
+</head>
+<body>
+    <h2>Array em JavaScript</h2>
+    <p>Os itens de um Array são acessados por meio de um índice .</p>
+    <p id="resultado"></p>
+
+    <script>
+        //Criando um array com valores
+        //const carros = ['Fiat', 'Volvo', 'BMW'];
+
+        //Criando um Array vazio e inserindo os elementos usando atribuições
+        const carros = [];
+        carros[0]='Honda';
+        carros[1]='Toyota';
+        carros[2]='Kia';
+        
+        //Modificando o valor de um elemento, sobescreve o valor da posição escolhida
+        //carros[0] = "Cherry";
+        //Adicionando o valor no array
+        carros[carros.length] = "Cherry";
+
+        //Usando o push - insere no final do array estilo uma fila
+        carros.push("Suzuki");
+        //Usando o pop - remove o último da fila
+        carros.pop();
+
+        //Usando o unshift - insere no inicio do array estilo uma pilha
+        carros.unshift("Hyundai");
+        //Usando o shift - remove o primeiro da pilha
+        carros.shift();
+
+        //Acessando o primeiro item do array
+        //document.getElementById('resultado').innerHTML = carros[0];
+
+        //Acessando o ultimo item do array
+        //document.getElementById('resultado').innerHTML = carros[carros.length -1];
+
+        //Acesando o array todo
+        //document.getElementById('resultado').innerHTML = carros;
+
+        //Se usar o pop dessa maneira mostrará na tela somente o elemento removido
+        //document.getElementById('resultado').innerHTML= carros.pop();
+
+        //Percorrendo um Array usando o for
+        var texto = "";
+        for(var i = 0; i<carros.length; i++){
+            texto += carros[i] + "<br>";
+        }
+        document.getElementById("resultado").innerHTML = texto;
+
+
+    </script>
+    
+</body>
+</html>

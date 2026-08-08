@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+</head>
+
+<body>
+    <Script>
+        var fruta = prompt("digite aqui a sua fruta preferida: ");
+        let vitaminas;
+
+        switch (fruta) {
+            case "maça":
+                vitaminas = "propriedades da casca ajuda a combater o colesterol e a diabetes";
+                break;
+            case "morango":
+                vitaminas = "vitamina C, ajuda a fortalecer o sistema imunológico";
+                break;
+            case "melancia":
+                vitaminas = " com 90% de  água, a melancia é excelente diuretico natural, ajudando a eliminar toxinas do organismo";
+                break;
+            case "manga":
+                vitaminas = "A manga é rica em minerais e vitaminas C, B5, A e antioxidantes. ";
+                break;
+            case "melão":
+                vitaminas = "O melão é rico em vitaminas A, C e do complexo B";
+                break;
+            case "laranja":
+                vitaminas = "É um fruto rico em sais minerais, por exemplo, fósforo, cálcio, e ferro.";
+                break;
+            default:
+                vitaminas = "Desculpe!, a fruta informada não está em nossa lista de frutas disponíveis";
+                break;
+        }
+        document.write("Essa fruta " + fruta + " Possui: " + vitaminas);
+
+
+    </Script>
+
+</body>
+
+</html>

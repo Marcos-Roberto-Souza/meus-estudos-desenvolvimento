@@ -1,0 +1,34 @@
+<mxfile host="Electron">
+  <diagram name="Página-1" id="xCGyeR10cCf3INMbSue8">
+    <mxGraphModel dx="1414" dy="849" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7zFJdEsQd0s_JXacbbUw-1" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=20;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Usuário&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="150" width="160" x="60" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7zFJdEsQd0s_JXacbbUw-2" parent="7zFJdEsQd0s_JXacbbUw-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=11;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="Nome : String&lt;div&gt;Avatar : Image&lt;/div&gt;&lt;div&gt;UserName : String&lt;/div&gt;&lt;div&gt;Email : String&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="160" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7zFJdEsQd0s_JXacbbUw-3" parent="7zFJdEsQd0s_JXacbbUw-1" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;autosizeText=1;" value="" vertex="1">
+          <mxGeometry height="8" width="160" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="7zFJdEsQd0s_JXacbbUw-4" parent="7zFJdEsQd0s_JXacbbUw-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="CriarUsuário()&lt;div&gt;AlterarUsuário()&lt;/div&gt;&lt;div&gt;ExcluirUsuário()&lt;/div&gt;" vertex="1">
+          <mxGeometry height="52" width="160" y="98" as="geometry" />
+        </mxCell>
+        <mxCell id="7zFJdEsQd0s_JXacbbUw-5" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Filme" vertex="1">
+          <mxGeometry height="210" width="160" x="260" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7zFJdEsQd0s_JXacbbUw-6" parent="7zFJdEsQd0s_JXacbbUw-5" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="Titulo : String&lt;div&gt;TituloOriginal : String&lt;/div&gt;&lt;div&gt;AnoLancamento : Int&lt;/div&gt;&lt;div&gt;Cartaz : Image&lt;/div&gt;&lt;div&gt;Sinopse : String&lt;/div&gt;&lt;div&gt;Estudio&lt;/div&gt;&lt;div&gt;Diretor&amp;nbsp;&lt;/div&gt;&lt;div&gt;Elenco&lt;/div&gt;" vertex="1">
+          <mxGeometry height="124" width="160" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="7zFJdEsQd0s_JXacbbUw-7" parent="7zFJdEsQd0s_JXacbbUw-5" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" value="" vertex="1">
+          <mxGeometry height="8" width="160" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="7zFJdEsQd0s_JXacbbUw-8" parent="7zFJdEsQd0s_JXacbbUw-5" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="CriarFilme()&lt;div&gt;AlterarFilme()&lt;/div&gt;&lt;div&gt;BuscarFilme()&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="52" width="160" y="158" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
