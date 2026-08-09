@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Criar Conta</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="register.css">
+</head>
+
+<body>
+    <div class="container">
+        <form class="card" id="registerForm">
+            <h1>Criar conta</h1>
+            <p>Preencha os dados abaixo</p>
+
+            <input type="text" id="name" placeholder="Nome completo" required />
+            <input type="email" id="email" placeholder="E-mail" required />
+            <input type="password" id="password" placeholder="Senha" required />
+            <input type="password" id="confirmPassword" placeholder="Confirmar senha" required />
+
+            <button type="submit" id="registerBtn">Cadastrar</button>
+
+            <span class="error" id="error"></span>
+
+            <div class="login-link">
+                <span>Já tem uma conta?</span>
+                <a href="../login/index.html">Entrar</a>
+            </div>
+        </form>
+    </div>
+
+    <script src="register.js"></script>
+</body>
+
+</html>
