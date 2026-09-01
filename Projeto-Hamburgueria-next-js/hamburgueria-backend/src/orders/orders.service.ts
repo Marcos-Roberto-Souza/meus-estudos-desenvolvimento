@@ -4,7 +4,7 @@ import { Repository } from 'typeorm';
 import { Order } from './order.entity';
 import { OrderItem } from './order-item.entity';
 import { Product } from '../products/product.entity';
-import { CreateOrderDto } from '../product-options/dto/create-order.dto';
+import { CreateOrderDto } from './dto/create-order.dto';
 import { OrderHistory } from './order-history.entity';
 @Injectable()
 export class OrdersService {
@@ -64,37 +64,51 @@ export class OrdersService {
         return this.ordersRepository.save(order);
     }
 
+
+
     async createOrder(dto: CreateOrderDto) {
+        console.log('=== INICIO CREATE ORDER ===');
+        console.log('DTO RECEBIDO: ', dto);
         // 1️⃣ Criar pedido com status CRIADO
         const order = this.ordersRepository.create({
             status: 'CRIADO',
             total: 0,
             user: { id: dto.userId }, // Apenas para criar a relação, o ID é o suficiente
         });
+        console.log('Pedido criado');
 
         await this.ordersRepository.save(order);
+
+        console.log('Pedido Salvo');
 
         let total = 0;
 
         // 2️⃣ Criar itens do pedido
         for (const item of dto.items) {
+
+            console.log('Item: ', item);
             const product = await this.productsRepository.findOneBy({
                 id: item.productId,
-                active: true,
             });
+
+            console.log('Produto encontrado: ', product);
 
             if (!product) {
                 throw new Error(`Produto ${item.productId} não encontrado`);
             }
 
+            const validProduct = product;
+
             const itemTotal = product.base_price * item.quantity;
             total += itemTotal;
 
+            console.log('Total Calculado: ', total);
+
             const orderItem = this.orderItemsRepository.create({
                 order,
-                product,
+                product: validProduct,
                 quantity: item.quantity,
-                unit_price: product.base_price,
+                unit_price: validProduct.base_price,
             });
 
             await this.orderItemsRepository.save(orderItem);
@@ -112,13 +126,24 @@ export class OrdersService {
     }
 
     async getTodayHistory() {
+        const start = new Date();
+        start.setHours(0, 0, 0, 0);
+
+        const end = new Date();
+        end.setHours(23, 59, 59, 999);
+
         return this.orderHistoryRepository
             .createQueryBuilder('h')
-            .where('DATE(h.closed_at) = CURDATE()')
+            .where(
+                'h.closed_at BETWEEN :start AND :end',
+                {
+                    start,
+                    end,
+                },
+            )
             .orderBy('h.closed_at', 'DESC')
             .getMany();
     }
-
     async getTodayMetrics() {
         const history = await this.getTodayHistory();
 
