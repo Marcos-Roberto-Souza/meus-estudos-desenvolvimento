@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import { useNavigate, useParams } from "react-router-dom";
-
 import { listarProdutosPorCategoria } from "../services/produtoService";
+import { listarProdutosContados } from "../services/contagemService";
 
 interface Produto {
     id: string;
@@ -14,19 +14,19 @@ export default function ProductListPage() {
     const navigate = useNavigate();
 
     const { categoriaId } = useParams();
-
     const [produtos, setProdutos] = useState<Produto[]>([]);
     const [busca, setBusca] = useState("");
     const [loading, setLoading] = useState(true);
+    const [contados, setContados] = useState<string[]>([]);
 
     useEffect(() => {
 
         carregarProdutos();
+        carregarContados();
 
-    }, []);
+    }, [categoriaId]);
 
     async function carregarProdutos() {
-
         try {
 
             console.log("Categoria Recebida:", categoriaId);
@@ -36,7 +36,15 @@ export default function ProductListPage() {
                     Number(categoriaId)
                 );
 
-                console.log("Produtos Retornados:", data);
+            localStorage.setItem(
+                "categoriaNome",
+                categoriaId === "1" ? "BEBIDAS"
+                    : categoriaId === "2" ? "ALIMENTOS"
+                        : "SORVETES"
+            );
+            localStorage.setItem("listaProdutos", JSON.stringify(data));
+
+            console.log("Produtos Retornados:", data);
 
             setProdutos(data || []);
 
@@ -51,12 +59,43 @@ export default function ProductListPage() {
         }
     }
 
+    async function carregarContados() {
+
+        const CONTAGEM_ID = localStorage.getItem("contagemId");
+
+        if (!CONTAGEM_ID) {
+            console.error("Contagem ID não encontrado no localStorage.");
+
+            return;
+        }
+
+        const itens =
+            await listarProdutosContados(
+                CONTAGEM_ID
+            );
+
+        setContados([
+            ...new Set(
+                itens.map(
+                    (item: any) =>
+                        item.produto_id
+                )
+            )
+        ]
+        );
+    }
+
+
     const produtosFiltrados = produtos.filter(
         (produto) =>
             produto.nome
                 .toLowerCase()
                 .includes(busca.toLowerCase())
+
     );
+
+    const produtosContados = new Set(contados).size;
+    const percentual = produtos.length > 0 ? Math.min(100, (produtosContados / produtos.length) * 100) : 0;
 
     return (
         <div
@@ -80,12 +119,45 @@ export default function ProductListPage() {
                 <h1>
                     {categoriaId === "1"
                         ? "BEBIDAS"
-                        : "ALIMENTOS"}
+                        : categoriaId === "2"
+                            ? "ALIMENTOS"
+                            : "SORVETES"
+                    }
                 </h1>
 
                 <p>
                     Escolha um item para registrar a contagem
                 </p>
+            </div>
+
+            <div
+                style={{
+                    marginTop: "20px",
+                    marginBottom: "20px"
+                }}
+            >
+                <p>
+                    {contados.length} / {produtos.length}
+                    {" "}produtos contados
+                </p>
+
+                <div
+                    style={{
+                        height: "12px",
+                        background: "#ddd",
+                        borderRadius: "10px"
+                    }}
+                >
+                    <div
+                        style={{
+                            width: `${percentual}%`,
+                            height: "12px",
+                            background: "#39FF14",
+                            borderRadius: "10px",
+                            transition: "0.3s"
+                        }}
+                    />
+                </div>
             </div>
 
             <div
@@ -123,11 +195,12 @@ export default function ProductListPage() {
                     marginTop: "20px"
                 }}
             >
-                {loading && <p>Carregando...</p>}
+                {loading && (
+                    <p>Carregando...</p>
+                )}
 
                 {!loading &&
                     produtosFiltrados.map((produto) => (
-
                         <div
                             key={produto.id}
                             onClick={() =>
@@ -136,8 +209,16 @@ export default function ProductListPage() {
                                 )
                             }
                             style={{
-                                background: "#D8DFE8",
-                                color: "#11153D",
+                                background:
+                                    contados.includes(produto.id)
+                                        ? "#38EF7D"
+                                        : "#D8DFE8",
+
+                                color:
+                                    contados.includes(produto.id)
+                                        ? "#000"
+                                        : "#11153D",
+
                                 padding: "25px",
                                 borderRadius: "20px",
                                 marginBottom: "15px",
@@ -148,7 +229,6 @@ export default function ProductListPage() {
                         >
                             {produto.nome}
                         </div>
-
                     ))}
             </div>
         </div>
