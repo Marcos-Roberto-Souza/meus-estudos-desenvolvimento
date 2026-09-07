@@ -338,57 +338,63 @@ export default function FinalizarContagemPage() {
                     </p>
                 )}
 
-                {detalhesLotes.map(
-                    (lote) => (
-
-                        <div
-                            key={lote.id}
-                            style={{
-                                background: "#FFF",
-                                padding: "12px",
-                                marginTop: "10px",
-                                borderRadius: "10px"
-                            }}
-                        >
-                            <p>
-                                <strong>Produto:</strong>{" "}
-                                {lote.contagem_itens?.produtos?.nome ?? "Produto não encontrado"}
-                            </p>
-
-                            <p>
-                                <strong>Lote:</strong>{" "}
-                                {lote.numero_lote}
-                            </p>
-
-                            <p>
-                                <strong>Quantidade:</strong>{" "}
-                                {lote.quantidade}
-                            </p>
-
-                            <p>
-                                <strong>Validade:</strong>{" "}
-                                {new Date(
-                                    lote.validade
-                                ).toLocaleDateString(
-                                    "pt-BR"
-                                )}
-                            </p>
-
-                            {lote.observacao && (
-
-                                <p>
-                                    <strong>
-                                        Observação:
-                                    </strong>{" "}
-                                    {lote.observacao}
-                                </p>
-
-                            )}
-
-                        </div>
-
-                    )
+                {detalhesLotes.length === 0 && (
+                    <p>
+                        Nenhum lote registrado.
+                    </p>
                 )}
+
+                {detalhesLotes.map((lote) => (
+
+                    <div
+                        key={lote.id}
+                        style={{
+                            background: "#FFF",
+                            padding: "12px",
+                            marginTop: "10px",
+                            borderRadius: "10px"
+                        }}
+                    >
+
+                        <p>
+                            <strong>Produto:</strong>{" "}
+                            {
+                                lote.contagem_itens?.produtos?.nome ||
+                                "Produto não encontrado"
+                            }
+                        </p>
+
+                        <p>
+                            <strong>Lote:</strong>{" "}
+                            {lote.numero_lote}
+                        </p>
+
+                        <p>
+                            <strong>Quantidade:</strong>{" "}
+                            {lote.quantidade}
+                        </p>
+
+                        <p>
+                            <strong>Validade:</strong>{" "}
+                            {new Date(
+                                lote.validade
+                            ).toLocaleDateString(
+                                "pt-BR"
+                            )}
+                        </p>
+
+                        {lote.observacao && (
+
+                            <p>
+                                <strong>Observação:</strong>{" "}
+                                {lote.observacao}
+                            </p>
+
+                        )}
+
+                    </div>
+
+                ))}
 
             </div>
 
