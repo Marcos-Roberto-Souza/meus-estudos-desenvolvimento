@@ -188,6 +188,18 @@ export default function ProductListPage() {
                 >
                     Filtro
                 </button>
+                
+                <button
+                    onClick={() => navigate("/home")}
+                    style={{
+                        padding: "10px 15px",
+                        borderRadius: "10px",
+                        border: "none",
+                        cursor: "pointer"
+                    }}
+                >
+                    ← Voltar
+                </button>
             </div>
 
             <div

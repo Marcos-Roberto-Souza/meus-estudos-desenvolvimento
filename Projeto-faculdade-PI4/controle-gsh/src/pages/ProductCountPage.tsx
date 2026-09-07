@@ -190,6 +190,41 @@ export default function ProductCountPage() {
         }
     }
 
+    async function confirmarSaida() {
+
+        const contagemId =
+            localStorage.getItem("contagemId");
+
+        if (!contagemId) {
+
+            navigate(-1);
+            return;
+
+        }
+
+        const confirmar = window.confirm(
+            "Ao sair, a contagem atual será deletada. Deseja sair sem finalizar?"
+        );
+
+        if (confirmar) {
+
+            localStorage.removeItem(
+                "listaProdutos"
+
+            );
+
+            localStorage.removeItem("contagemId");
+            localStorage.removeItem("listaProdutos");
+            localStorage.removeItem("categoriaNome");
+
+            navigate("/home");
+
+        }
+
+    }
+
+
+
     if (carregandoProduto) {
         return (
             <div
@@ -259,7 +294,7 @@ export default function ProductCountPage() {
             >
                 <button
                     type="button"
-                    onClick={() => navigate(-1)}
+                    onClick={confirmarSaida}
                     disabled={salvando}
                     style={{
                         padding: "10px 16px",
