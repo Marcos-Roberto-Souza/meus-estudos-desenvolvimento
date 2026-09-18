@@ -1,0 +1,1916 @@
+[
+    {
+        "ranking":1,
+        "municipio":"São Paulo",
+        "uf":"São Paulo",
+        "populacao":"11 451 999"
+    },
+    {
+        "ranking":2,
+        "municipio":"Rio de Janeiro",
+        "uf":"Rio de Janeiro",
+        "populacao":"6 211 223"
+    },
+    {
+        "ranking":3,
+        "municipio":"Brasília",
+        "uf":"Distrito Federal",
+        "populacao":"2 817 381"
+    },
+    {
+        "ranking":4,
+        "municipio":"Fortaleza",
+        "uf":"Ceará",
+        "populacao":"2 428 708"
+    },
+    {
+        "ranking":5,
+        "municipio":"Salvador",
+        "uf":"Bahia",
+        "populacao":"2 417 678"
+    },
+    {
+        "ranking":6,
+        "municipio":"Belo Horizonte",
+        "uf":"Minas Gerais",
+        "populacao":"2 315 560"
+    },
+    {
+        "ranking":7,
+        "municipio":"Manaus",
+        "uf":"Amazonas",
+        "populacao":"2 063 689"
+    },
+    {
+        "ranking":8,
+        "municipio":"Curitiba",
+        "uf":"Paraná",
+        "populacao":"1 773 718"
+    },
+    {
+        "ranking":9,
+        "municipio":"Recife",
+        "uf":"Pernambuco",
+        "populacao":"1 488 920"
+    },
+    {
+        "ranking":10,
+        "municipio":"Goiânia",
+        "uf":"Goiás",
+        "populacao":"1 437 366"
+    },
+    {
+        "ranking":11,
+        "municipio":"Porto Alegre",
+        "uf":"Rio Grande do Sul",
+        "populacao":"1 332 845"
+    },
+    {
+        "ranking":12,
+        "municipio":"Belém",
+        "uf":"Pará",
+        "populacao":"1 303 403"
+    },
+    {
+        "ranking":13,
+        "municipio":"Guarulhos",
+        "uf":"São Paulo",
+        "populacao":"1 291 771"
+    },
+    {
+        "ranking":14,
+        "municipio":"Campinas",
+        "uf":"São Paulo",
+        "populacao":"1 139 047"
+    },
+    {
+        "ranking":15,
+        "municipio":"São Luís",
+        "uf":"Maranhão",
+        "populacao":"1 037 775"
+    },
+    {
+        "ranking":16,
+        "municipio":"Maceió",
+        "uf":"Alagoas",
+        "populacao":"957 916"
+    },
+    {
+        "ranking":17,
+        "municipio":"Campo Grande",
+        "uf":"Mato Grosso do Sul",
+        "populacao":"898 100"
+    },
+    {
+        "ranking":18,
+        "municipio":"São Gonçalo",
+        "uf":"Rio de Janeiro",
+        "populacao":"896 744"
+    },
+    {
+        "ranking":19,
+        "municipio":"Teresina",
+        "uf":"Piauí",
+        "populacao":"866 300"
+    },
+    {
+        "ranking":20,
+        "municipio":"João Pessoa",
+        "uf":"Paraíba",
+        "populacao":"833 932"
+    },
+    {
+        "ranking":21,
+        "municipio":"São Bernardo do Campo",
+        "uf":"São Paulo",
+        "populacao":"810 729"
+    },
+    {
+        "ranking":22,
+        "municipio":"Duque de Caxias",
+        "uf":"Rio de Janeiro",
+        "populacao":"808 161"
+    },
+    {
+        "ranking":23,
+        "municipio":"Nova Iguaçu",
+        "uf":"Rio de Janeiro",
+        "populacao":"785 867"
+    },
+    {
+        "ranking":24,
+        "municipio":"Natal",
+        "uf":"Rio Grande do Norte",
+        "populacao":"751 300"
+    },
+    {
+        "ranking":25,
+        "municipio":"Santo André",
+        "uf":"São Paulo",
+        "populacao":"748 919"
+    },
+    {
+        "ranking":26,
+        "municipio":"Osasco",
+        "uf":"São Paulo",
+        "populacao":"728 615"
+    },
+    {
+        "ranking":27,
+        "municipio":"Sorocaba",
+        "uf":"São Paulo",
+        "populacao":"723 682"
+    },
+    {
+        "ranking":28,
+        "municipio":"Uberlândia",
+        "uf":"Minas Gerais",
+        "populacao":"713 224"
+    },
+    {
+        "ranking":29,
+        "municipio":"Ribeirão Preto",
+        "uf":"São Paulo",
+        "populacao":"698 642"
+    },
+    {
+        "ranking":30,
+        "municipio":"São José dos Campos",
+        "uf":"São Paulo",
+        "populacao":"697 054"
+    },
+    {
+        "ranking":31,
+        "municipio":"Cuiabá",
+        "uf":"Mato Grosso",
+        "populacao":"650 877"
+    },
+    {
+        "ranking":32,
+        "municipio":"Jaboatão dos Guararapes",
+        "uf":"Pernambuco",
+        "populacao":"644 037"
+    },
+    {
+        "ranking":33,
+        "municipio":"Contagem",
+        "uf":"Minas Gerais",
+        "populacao":"621 863"
+    },
+    {
+        "ranking":34,
+        "municipio":"Joinville",
+        "uf":"Santa Catarina",
+        "populacao":"616 317"
+    },
+    {
+        "ranking":35,
+        "municipio":"Feira de Santana",
+        "uf":"Bahia",
+        "populacao":"616 272"
+    },
+    {
+        "ranking":36,
+        "municipio":"Aracaju",
+        "uf":"Sergipe",
+        "populacao":"602 757"
+    },
+    {
+        "ranking":37,
+        "municipio":"Londrina",
+        "uf":"Paraná",
+        "populacao":"555 965"
+    },
+    {
+        "ranking":38,
+        "municipio":"Juiz de Fora",
+        "uf":"Minas Gerais",
+        "populacao":"540 756"
+    },
+    {
+        "ranking":39,
+        "municipio":"Florianópolis",
+        "uf":"Santa Catarina",
+        "populacao":"537 211"
+    },
+    {
+        "ranking":40,
+        "municipio":"Aparecida de Goiânia",
+        "uf":"Goiás",
+        "populacao":"527 796"
+    },
+    {
+        "ranking":41,
+        "municipio":"Serra",
+        "uf":"Espírito Santo",
+        "populacao":"520 653"
+    },
+    {
+        "ranking":42,
+        "municipio":"Campos dos Goytacazes",
+        "uf":"Rio de Janeiro",
+        "populacao":"483 540"
+    },
+    {
+        "ranking":43,
+        "municipio":"Belford Roxo",
+        "uf":"Rio de Janeiro",
+        "populacao":"483 087"
+    },
+    {
+        "ranking":44,
+        "municipio":"Niterói",
+        "uf":"Rio de Janeiro",
+        "populacao":"481 749"
+    },
+    {
+        "ranking":45,
+        "municipio":"São José do Rio Preto",
+        "uf":"São Paulo",
+        "populacao":"480 393"
+    },
+    {
+        "ranking":46,
+        "municipio":"Ananindeua",
+        "uf":"Pará",
+        "populacao":"478 778"
+    },
+    {
+        "ranking":47,
+        "municipio":"Vila Velha",
+        "uf":"Espírito Santo",
+        "populacao":"467 722"
+    },
+    {
+        "ranking":48,
+        "municipio":"Caxias do Sul",
+        "uf":"Rio Grande do Sul",
+        "populacao":"463 501"
+    },
+    {
+        "ranking":49,
+        "municipio":"Porto Velho",
+        "uf":"Rondônia",
+        "populacao":"460 434"
+    },
+    {
+        "ranking":50,
+        "municipio":"Mogi das Cruzes",
+        "uf":"São Paulo",
+        "populacao":"451 505"
+    },
+    {
+        "ranking":51,
+        "municipio":"Jundiaí",
+        "uf":"São Paulo",
+        "populacao":"443 221"
+    },
+    {
+        "ranking":52,
+        "municipio":"Macapá",
+        "uf":"Amapá",
+        "populacao":"442 933"
+    },
+    {
+        "ranking":53,
+        "municipio":"São João de Meriti",
+        "uf":"Rio de Janeiro",
+        "populacao":"440 962"
+    },
+    {
+        "ranking":54,
+        "municipio":"Piracicaba",
+        "uf":"São Paulo",
+        "populacao":"423 323"
+    },
+    {
+        "ranking":55,
+        "municipio":"Campina Grande",
+        "uf":"Paraíba",
+        "populacao":"419 379"
+    },
+    {
+        "ranking":56,
+        "municipio":"Santos",
+        "uf":"São Paulo",
+        "populacao":"418 608"
+    },
+    {
+        "ranking":57,
+        "municipio":"Mauá",
+        "uf":"São Paulo",
+        "populacao":"418 261"
+    },
+    {
+        "ranking":58,
+        "municipio":"Montes Claros",
+        "uf":"Minas Gerais",
+        "populacao":"414 240"
+    },
+    {
+        "ranking":59,
+        "municipio":"Boa Vista",
+        "uf":"Roraima",
+        "populacao":"413 486"
+    },
+    {
+        "ranking":60,
+        "municipio":"Betim",
+        "uf":"Minas Gerais",
+        "populacao":"411 846"
+    },
+    {
+        "ranking":61,
+        "municipio":"Maringá",
+        "uf":"Paraná",
+        "populacao":"409 657"
+    },
+    {
+        "ranking":62,
+        "municipio":"Anápolis",
+        "uf":"Goiás",
+        "populacao":"398 869"
+    },
+    {
+        "ranking":63,
+        "municipio":"Diadema",
+        "uf":"São Paulo",
+        "populacao":"393 237"
+    },
+    {
+        "ranking":64,
+        "municipio":"Carapicuíba",
+        "uf":"São Paulo",
+        "populacao":"386 984"
+    },
+    {
+        "ranking":65,
+        "municipio":"Petrolina",
+        "uf":"Pernambuco",
+        "populacao":"386 791"
+    },
+    {
+        "ranking":66,
+        "municipio":"Bauru",
+        "uf":"São Paulo",
+        "populacao":"379 146"
+    },
+    {
+        "ranking":67,
+        "municipio":"Caruaru",
+        "uf":"Pernambuco",
+        "populacao":"378 048"
+    },
+    {
+        "ranking":68,
+        "municipio":"Vitória da Conquista",
+        "uf":"Bahia",
+        "populacao":"370 879"
+    },
+    {
+        "ranking":69,
+        "municipio":"Itaquaquecetuba",
+        "uf":"São Paulo",
+        "populacao":"369 275"
+    },
+    {
+        "ranking":70,
+        "municipio":"Rio Branco",
+        "uf":"Acre",
+        "populacao":"364 756"
+    },
+    {
+        "ranking":71,
+        "municipio":"Blumenau",
+        "uf":"Santa Catarina",
+        "populacao":"361 261"
+    },
+    {
+        "ranking":72,
+        "municipio":"Ponta Grossa",
+        "uf":"Paraná",
+        "populacao":"358 371"
+    },
+    {
+        "ranking":73,
+        "municipio":"Caucaia",
+        "uf":"Ceará",
+        "populacao":"355 679"
+    },
+    {
+        "ranking":74,
+        "municipio":"Cariacica",
+        "uf":"Espírito Santo",
+        "populacao":"353 491"
+    },
+    {
+        "ranking":75,
+        "municipio":"Franca",
+        "uf":"São Paulo",
+        "populacao":"352 536"
+    },
+    {
+        "ranking":76,
+        "municipio":"Olinda",
+        "uf":"Pernambuco",
+        "populacao":"349 976"
+    },
+    {
+        "ranking":77,
+        "municipio":"Praia Grande",
+        "uf":"São Paulo",
+        "populacao":"349 935"
+    },
+    {
+        "ranking":78,
+        "municipio":"Cascavel",
+        "uf":"Paraná",
+        "populacao":"348 051"
+    },
+    {
+        "ranking":79,
+        "municipio":"Canoas",
+        "uf":"Rio Grande do Sul",
+        "populacao":"347 657"
+    },
+    {
+        "ranking":80,
+        "municipio":"Paulista",
+        "uf":"Pernambuco",
+        "populacao":"342 167"
+    },
+    {
+        "ranking":81,
+        "municipio":"Uberaba",
+        "uf":"Minas Gerais",
+        "populacao":"337 836"
+    },
+    {
+        "ranking":82,
+        "municipio":"Santarém",
+        "uf":"Pará",
+        "populacao":"331 942"
+    },
+    {
+        "ranking":83,
+        "municipio":"São Vicente",
+        "uf":"São Paulo",
+        "populacao":"329 911"
+    },
+    {
+        "ranking":84,
+        "municipio":"Ribeirão das Neves",
+        "uf":"Minas Gerais",
+        "populacao":"329 794"
+    },
+    {
+        "ranking":85,
+        "municipio":"São José dos Pinhais",
+        "uf":"Paraná",
+        "populacao":"329 628"
+    },
+    {
+        "ranking":86,
+        "municipio":"Pelotas",
+        "uf":"Rio Grande do Sul",
+        "populacao":"325 685"
+    },
+    {
+        "ranking":87,
+        "municipio":"Vitória",
+        "uf":"Espírito Santo",
+        "populacao":"322 869"
+    },
+    {
+        "ranking":88,
+        "municipio":"Barueri",
+        "uf":"São Paulo",
+        "populacao":"316 473"
+    },
+    {
+        "ranking":89,
+        "municipio":"Taubaté",
+        "uf":"São Paulo",
+        "populacao":"310 739"
+    },
+    {
+        "ranking":90,
+        "municipio":"Suzano",
+        "uf":"São Paulo",
+        "populacao":"307 429"
+    },
+    {
+        "ranking":91,
+        "municipio":"Palmas",
+        "uf":"Tocantins",
+        "populacao":"302 692"
+    },
+    {
+        "ranking":92,
+        "municipio":"Camaçari",
+        "uf":"Bahia",
+        "populacao":"300 372"
+    },
+    {
+        "ranking":93,
+        "municipio":"Várzea Grande",
+        "uf":"Mato Grosso",
+        "populacao":"300 078"
+    },
+    {
+        "ranking":94,
+        "municipio":"Limeira",
+        "uf":"São Paulo",
+        "populacao":"291 869"
+    },
+    {
+        "ranking":95,
+        "municipio":"Guarujá",
+        "uf":"São Paulo",
+        "populacao":"287 634"
+    },
+    {
+        "ranking":96,
+        "municipio":"Juazeiro do Norte",
+        "uf":"Ceará",
+        "populacao":"286 120"
+    },
+    {
+        "ranking":97,
+        "municipio":"Foz do Iguaçu",
+        "uf":"Paraná",
+        "populacao":"285 415"
+    },
+    {
+        "ranking":98,
+        "municipio":"Sumaré",
+        "uf":"São Paulo",
+        "populacao":"279 545"
+    },
+    {
+        "ranking":99,
+        "municipio":"Petrópolis",
+        "uf":"Rio de Janeiro",
+        "populacao":"278 881"
+    },
+    {
+        "ranking":100,
+        "municipio":"Cotia",
+        "uf":"São Paulo",
+        "populacao":"274 413"
+    },
+    {
+        "ranking":101,
+        "municipio":"Taboão da Serra",
+        "uf":"São Paulo",
+        "populacao":"273 542"
+    },
+    {
+        "ranking":102,
+        "municipio":"Imperatriz",
+        "uf":"Maranhão",
+        "populacao":"273 110"
+    },
+    {
+        "ranking":103,
+        "municipio":"Santa Maria",
+        "uf":"Rio Grande do Sul",
+        "populacao":"271 735"
+    },
+    {
+        "ranking":104,
+        "municipio":"São José",
+        "uf":"Santa Catarina",
+        "populacao":"270 299"
+    },
+    {
+        "ranking":105,
+        "municipio":"Parauapebas",
+        "uf":"Pará",
+        "populacao":"267 836"
+    },
+    {
+        "ranking":106,
+        "municipio":"Marabá",
+        "uf":"Pará",
+        "populacao":"266 533"
+    },
+    {
+        "ranking":107,
+        "municipio":"Gravataí",
+        "uf":"Rio Grande do Sul",
+        "populacao":"265 074"
+    },
+    {
+        "ranking":108,
+        "municipio":"Mossoró",
+        "uf":"Rio Grande do Norte",
+        "populacao":"264 577"
+    },
+    {
+        "ranking":109,
+        "municipio":"Itajaí",
+        "uf":"Santa Catarina",
+        "populacao":"264 054"
+    },
+    {
+        "ranking":110,
+        "municipio":"Volta Redonda",
+        "uf":"Rio de Janeiro",
+        "populacao":"261 563"
+    },
+    {
+        "ranking":111,
+        "municipio":"Governador Valadares",
+        "uf":"Minas Gerais",
+        "populacao":"257 171"
+    },
+    {
+        "ranking":112,
+        "municipio":"Indaiatuba",
+        "uf":"São Paulo",
+        "populacao":"255 748"
+    },
+    {
+        "ranking":113,
+        "municipio":"São Carlos",
+        "uf":"São Paulo",
+        "populacao":"254 857"
+    },
+    {
+        "ranking":114,
+        "municipio":"Chapecó",
+        "uf":"Santa Catarina",
+        "populacao":"254 785"
+    },
+    {
+        "ranking":115,
+        "municipio":"Parnamirim",
+        "uf":"Rio Grande do Norte",
+        "populacao":"252 716"
+    },
+    {
+        "ranking":116,
+        "municipio":"Embu das Artes",
+        "uf":"São Paulo",
+        "populacao":"250 691"
+    },
+    {
+        "ranking":117,
+        "municipio":"Macaé",
+        "uf":"Rio de Janeiro",
+        "populacao":"246 391"
+    },
+    {
+        "ranking":118,
+        "municipio":"Rondonópolis",
+        "uf":"Mato Grosso",
+        "populacao":"244 911"
+    },
+    {
+        "ranking":119,
+        "municipio":"São José de Ribamar",
+        "uf":"Maranhão",
+        "populacao":"244 579"
+    },
+    {
+        "ranking":120,
+        "municipio":"Dourados",
+        "uf":"Mato Grosso do Sul",
+        "populacao":"243 367"
+    },
+    {
+        "ranking":121,
+        "municipio":"Araraquara",
+        "uf":"São Paulo",
+        "populacao":"242 228"
+    },
+    {
+        "ranking":122,
+        "municipio":"Jacareí",
+        "uf":"São Paulo",
+        "populacao":"240 275"
+    },
+    {
+        "ranking":123,
+        "municipio":"Juazeiro",
+        "uf":"Bahia",
+        "populacao":"237 821"
+    },
+    {
+        "ranking":124,
+        "municipio":"Marília",
+        "uf":"São Paulo",
+        "populacao":"237 627"
+    },
+    {
+        "ranking":125,
+        "municipio":"Americana",
+        "uf":"São Paulo",
+        "populacao":"237 240"
+    },
+    {
+        "ranking":126,
+        "municipio":"Hortolândia",
+        "uf":"São Paulo",
+        "populacao":"236 641"
+    },
+    {
+        "ranking":127,
+        "municipio":"Arapiraca",
+        "uf":"Alagoas",
+        "populacao":"234 696"
+    },
+    {
+        "ranking":128,
+        "municipio":"Maracanaú",
+        "uf":"Ceará",
+        "populacao":"234 509"
+    },
+    {
+        "ranking":129,
+        "municipio":"Itapevi",
+        "uf":"São Paulo",
+        "populacao":"232 297"
+    },
+    {
+        "ranking":130,
+        "municipio":"Colombo",
+        "uf":"Paraná",
+        "populacao":"232 212"
+    },
+    {
+        "ranking":131,
+        "municipio":"Divinópolis",
+        "uf":"Minas Gerais",
+        "populacao":"231 091"
+    },
+    {
+        "ranking":132,
+        "municipio":"Magé",
+        "uf":"Rio de Janeiro",
+        "populacao":"228 127"
+    },
+    {
+        "ranking":133,
+        "municipio":"Ipatinga",
+        "uf":"Minas Gerais",
+        "populacao":"227 731"
+    },
+    {
+        "ranking":134,
+        "municipio":"Novo Hamburgo",
+        "uf":"Rio Grande do Sul",
+        "populacao":"227 646"
+    },
+    {
+        "ranking":135,
+        "municipio":"Sete Lagoas",
+        "uf":"Minas Gerais",
+        "populacao":"227 397"
+    },
+    {
+        "ranking":136,
+        "municipio":"Rio Verde",
+        "uf":"Goiás",
+        "populacao":"225 696"
+    },
+    {
+        "ranking":137,
+        "municipio":"Águas Lindas de Goiás",
+        "uf":"Goiás",
+        "populacao":"225 693"
+    },
+    {
+        "ranking":138,
+        "municipio":"Presidente Prudente",
+        "uf":"São Paulo",
+        "populacao":"225 668"
+    },
+    {
+        "ranking":139,
+        "municipio":"Itaboraí",
+        "uf":"Rio de Janeiro",
+        "populacao":"224 267"
+    },
+    {
+        "ranking":140,
+        "municipio":"Viamão",
+        "uf":"Rio Grande do Sul",
+        "populacao":"224 112"
+    },
+    {
+        "ranking":141,
+        "municipio":"Palhoça",
+        "uf":"Santa Catarina",
+        "populacao":"222 598"
+    },
+    {
+        "ranking":142,
+        "municipio":"Cabo Frio",
+        "uf":"Rio de Janeiro",
+        "populacao":"222 161"
+    },
+    {
+        "ranking":143,
+        "municipio":"Santa Luzia",
+        "uf":"Minas Gerais",
+        "populacao":"219 132"
+    },
+    {
+        "ranking":144,
+        "municipio":"São Leopoldo",
+        "uf":"Rio Grande do Sul",
+        "populacao":"217 409"
+    },
+    {
+        "ranking":145,
+        "municipio":"Criciúma",
+        "uf":"Santa Catarina",
+        "populacao":"214 493"
+    },
+    {
+        "ranking":146,
+        "municipio":"Luziânia",
+        "uf":"Goiás",
+        "populacao":"209 129"
+    },
+    {
+        "ranking":147,
+        "municipio":"Passo Fundo",
+        "uf":"Rio Grande do Sul",
+        "populacao":"206 215"
+    },
+    {
+        "ranking":148,
+        "municipio":"Cabo de Santo Agostinho",
+        "uf":"Pernambuco",
+        "populacao":"203 440"
+    },
+    {
+        "ranking":149,
+        "municipio":"Lauro de Freitas",
+        "uf":"Bahia",
+        "populacao":"203 331"
+    },
+    {
+        "ranking":150,
+        "municipio":"Sobral",
+        "uf":"Ceará",
+        "populacao":"203 023"
+    },
+    {
+        "ranking":151,
+        "municipio":"Rio Claro",
+        "uf":"São Paulo",
+        "populacao":"201 418"
+    },
+    {
+        "ranking":152,
+        "municipio":"Araçatuba",
+        "uf":"São Paulo",
+        "populacao":"200 124"
+    },
+    {
+        "ranking":153,
+        "municipio":"Valparaíso de Goiás",
+        "uf":"Goiás",
+        "populacao":"198 861"
+    },
+    {
+        "ranking":154,
+        "municipio":"Maricá",
+        "uf":"Rio de Janeiro",
+        "populacao":"197 277"
+    },
+    {
+        "ranking":155,
+        "municipio":"Sinop",
+        "uf":"Mato Grosso",
+        "populacao":"196 312"
+    },
+    {
+        "ranking":156,
+        "municipio":"Nossa Senhora do Socorro",
+        "uf":"Sergipe",
+        "populacao":"192 330"
+    },
+    {
+        "ranking":157,
+        "municipio":"Castanhal",
+        "uf":"Pará",
+        "populacao":"192 256"
+    },
+    {
+        "ranking":158,
+        "municipio":"Rio Grande",
+        "uf":"Rio Grande do Sul",
+        "populacao":"191 900"
+    },
+    {
+        "ranking":159,
+        "municipio":"Nova Friburgo",
+        "uf":"Rio de Janeiro",
+        "populacao":"189 939"
+    },
+    {
+        "ranking":160,
+        "municipio":"Alvorada",
+        "uf":"Rio Grande do Sul",
+        "populacao":"187 315"
+    },
+    {
+        "ranking":161,
+        "municipio":"Itabuna",
+        "uf":"Bahia",
+        "populacao":"186 708"
+    },
+    {
+        "ranking":162,
+        "municipio":"Cachoeiro de Itapemirim",
+        "uf":"Espírito Santo",
+        "populacao":"185 786"
+    },
+    {
+        "ranking":163,
+        "municipio":"Santa Bárbara d'Oeste",
+        "uf":"São Paulo",
+        "populacao":"183 347"
+    },
+    {
+        "ranking":164,
+        "municipio":"Jaraguá do Sul",
+        "uf":"Santa Catarina",
+        "populacao":"182 660"
+    },
+    {
+        "ranking":165,
+        "municipio":"Guarapuava",
+        "uf":"Paraná",
+        "populacao":"182 093"
+    },
+    {
+        "ranking":166,
+        "municipio":"Ferraz de Vasconcelos",
+        "uf":"São Paulo",
+        "populacao":"179 198"
+    },
+    {
+        "ranking":167,
+        "municipio":"Ilhéus",
+        "uf":"Bahia",
+        "populacao":"178 649"
+    },
+    {
+        "ranking":168,
+        "municipio":"Bragança Paulista",
+        "uf":"São Paulo",
+        "populacao":"176 811"
+    },
+    {
+        "ranking":169,
+        "municipio":"Timon",
+        "uf":"Maranhão",
+        "populacao":"174 465"
+    },
+    {
+        "ranking":170,
+        "municipio":"Araguaína",
+        "uf":"Tocantins",
+        "populacao":"171 301"
+    },
+    {
+        "ranking":171,
+        "municipio":"Ibirité",
+        "uf":"Minas Gerais",
+        "populacao":"170 537"
+    },
+    {
+        "ranking":172,
+        "municipio":"Barra Mansa",
+        "uf":"Rio de Janeiro",
+        "populacao":"169 894"
+    },
+    {
+        "ranking":173,
+        "municipio":"Porto Seguro",
+        "uf":"Bahia",
+        "populacao":"168 326"
+    },
+    {
+        "ranking":174,
+        "municipio":"Itu",
+        "uf":"São Paulo",
+        "populacao":"168 240"
+    },
+    {
+        "ranking":175,
+        "municipio":"Angra dos Reis",
+        "uf":"Rio de Janeiro",
+        "populacao":"167 434"
+    },
+    {
+        "ranking":176,
+        "municipio":"Mesquita",
+        "uf":"Rio de Janeiro",
+        "populacao":"167 127"
+    },
+    {
+        "ranking":177,
+        "municipio":"Linhares",
+        "uf":"Espírito Santo",
+        "populacao":"166 786"
+    },
+    {
+        "ranking":178,
+        "municipio":"São Caetano do Sul",
+        "uf":"São Paulo",
+        "populacao":"165 655"
+    },
+    {
+        "ranking":179,
+        "municipio":"Pindamonhangaba",
+        "uf":"São Paulo",
+        "populacao":"165 428"
+    },
+    {
+        "ranking":180,
+        "municipio":"Francisco Morato",
+        "uf":"São Paulo",
+        "populacao":"165 139"
+    },
+    {
+        "ranking":181,
+        "municipio":"Teresópolis",
+        "uf":"Rio de Janeiro",
+        "populacao":"165 123"
+    },
+    {
+        "ranking":182,
+        "municipio":"Lages",
+        "uf":"Santa Catarina",
+        "populacao":"164 981"
+    },
+    {
+        "ranking":183,
+        "municipio":"Poços de Caldas",
+        "uf":"Minas Gerais",
+        "populacao":"163 742"
+    },
+    {
+        "ranking":184,
+        "municipio":"Parnaíba",
+        "uf":"Piauí",
+        "populacao":"162 159"
+    },
+    {
+        "ranking":185,
+        "municipio":"Barreiras",
+        "uf":"Bahia",
+        "populacao":"159 734"
+    },
+    {
+        "ranking":186,
+        "municipio":"Patos de Minas",
+        "uf":"Minas Gerais",
+        "populacao":"159 235"
+    },
+    {
+        "ranking":187,
+        "municipio":"Jequié",
+        "uf":"Bahia",
+        "populacao":"158 813"
+    },
+    {
+        "ranking":188,
+        "municipio":"Atibaia",
+        "uf":"São Paulo",
+        "populacao":"158 647"
+    },
+    {
+        "ranking":189,
+        "municipio":"Itapecerica da Serra",
+        "uf":"São Paulo",
+        "populacao":"158 522"
+    },
+    {
+        "ranking":190,
+        "municipio":"Abaetetuba",
+        "uf":"Pará",
+        "populacao":"158 188"
+    },
+    {
+        "ranking":191,
+        "municipio":"Itapetininga",
+        "uf":"São Paulo",
+        "populacao":"157 790"
+    },
+    {
+        "ranking":192,
+        "municipio":"Caxias",
+        "uf":"Maranhão",
+        "populacao":"156 973"
+    },
+    {
+        "ranking":193,
+        "municipio":"Rio das Ostras",
+        "uf":"Rio de Janeiro",
+        "populacao":"156 491"
+    },
+    {
+        "ranking":194,
+        "municipio":"Senador Canedo",
+        "uf":"Goiás",
+        "populacao":"155 635"
+    },
+    {
+        "ranking":195,
+        "municipio":"Santana de Parnaíba",
+        "uf":"São Paulo",
+        "populacao":"154 105"
+    },
+    {
+        "ranking":196,
+        "municipio":"Mogi Guaçu",
+        "uf":"São Paulo",
+        "populacao":"153 658"
+    },
+    {
+        "ranking":197,
+        "municipio":"Pouso Alegre",
+        "uf":"Minas Gerais",
+        "populacao":"152 217"
+    },
+    {
+        "ranking":198,
+        "municipio":"Araucária",
+        "uf":"Paraná",
+        "populacao":"151 666"
+    },
+    {
+        "ranking":199,
+        "municipio":"Alagoinhas",
+        "uf":"Bahia",
+        "populacao":"151 055"
+    },
+    {
+        "ranking":200,
+        "municipio":"Toledo",
+        "uf":"Paraná",
+        "populacao":"150 470"
+    },
+    {
+        "ranking":201,
+        "municipio":"Santa Rita",
+        "uf":"Paraíba",
+        "populacao":"149 910"
+    },
+    {
+        "ranking":202,
+        "municipio":"Fazenda Rio Grande",
+        "uf":"Paraná",
+        "populacao":"148 873"
+    },
+    {
+        "ranking":203,
+        "municipio":"Camaragibe",
+        "uf":"Pernambuco",
+        "populacao":"147 771"
+    },
+    {
+        "ranking":204,
+        "municipio":"Nilópolis",
+        "uf":"Rio de Janeiro",
+        "populacao":"146 774"
+    },
+    {
+        "ranking":205,
+        "municipio":"Paranaguá",
+        "uf":"Paraná",
+        "populacao":"145 829"
+    },
+    {
+        "ranking":206,
+        "municipio":"Paço do Lumiar",
+        "uf":"Maranhão",
+        "populacao":"145 643"
+    },
+    {
+        "ranking":207,
+        "municipio":"Teixeira de Freitas",
+        "uf":"Bahia",
+        "populacao":"145 216"
+    },
+    {
+        "ranking":208,
+        "municipio":"Botucatu",
+        "uf":"São Paulo",
+        "populacao":"145 155"
+    },
+    {
+        "ranking":209,
+        "municipio":"Franco da Rocha",
+        "uf":"São Paulo",
+        "populacao":"144 849"
+    },
+    {
+        "ranking":210,
+        "municipio":"Garanhuns",
+        "uf":"Pernambuco",
+        "populacao":"142 506"
+    },
+    {
+        "ranking":211,
+        "municipio":"Trindade",
+        "uf":"Goiás",
+        "populacao":"142 431"
+    },
+    {
+        "ranking":212,
+        "municipio":"Brusque",
+        "uf":"Santa Catarina",
+        "populacao":"141 385"
+    },
+    {
+        "ranking":213,
+        "municipio":"Queimados",
+        "uf":"Rio de Janeiro",
+        "populacao":"140 523"
+    },
+    {
+        "ranking":214,
+        "municipio":"Balneário Camboriú",
+        "uf":"Santa Catarina",
+        "populacao":"139 155"
+    },
+    {
+        "ranking":215,
+        "municipio":"Teófilo Otoni",
+        "uf":"Minas Gerais",
+        "populacao":"137 418"
+    },
+    {
+        "ranking":216,
+        "municipio":"Varginha",
+        "uf":"Minas Gerais",
+        "populacao":"136 467"
+    },
+    {
+        "ranking":217,
+        "municipio":"Campo Largo",
+        "uf":"Paraná",
+        "populacao":"136 327"
+    },
+    {
+        "ranking":218,
+        "municipio":"Cachoeirinha",
+        "uf":"Rio Grande do Sul",
+        "populacao":"136 258"
+    },
+    {
+        "ranking":219,
+        "municipio":"Caraguatatuba",
+        "uf":"São Paulo",
+        "populacao":"134 873"
+    },
+    {
+        "ranking":220,
+        "municipio":"Salto",
+        "uf":"São Paulo",
+        "populacao":"134 319"
+    },
+    {
+        "ranking":221,
+        "municipio":"Cametá",
+        "uf":"Pará",
+        "populacao":"134 184"
+    },
+    {
+        "ranking":222,
+        "municipio":"Vitória de Santo Antão",
+        "uf":"Pernambuco",
+        "populacao":"134 084"
+    },
+    {
+        "ranking":223,
+        "municipio":"Jaú",
+        "uf":"São Paulo",
+        "populacao":"133 497"
+    },
+    {
+        "ranking":224,
+        "municipio":"Santa Cruz do Sul",
+        "uf":"Rio Grande do Sul",
+        "populacao":"133 230"
+    },
+    {
+        "ranking":225,
+        "municipio":"Três Lagoas",
+        "uf":"Mato Grosso do Sul",
+        "populacao":"132 152"
+    },
+    {
+        "ranking":226,
+        "municipio":"Sapucaia do Sul",
+        "uf":"Rio Grande do Sul",
+        "populacao":"132 107"
+    },
+    {
+        "ranking":227,
+        "municipio":"Conselheiro Lafaiete",
+        "uf":"Minas Gerais",
+        "populacao":"131 621"
+    },
+    {
+        "ranking":228,
+        "municipio":"Itapipoca",
+        "uf":"Ceará",
+        "populacao":"131 123"
+    },
+    {
+        "ranking":229,
+        "municipio":"Crato",
+        "uf":"Ceará",
+        "populacao":"131 050"
+    },
+    {
+        "ranking":230,
+        "municipio":"Araras",
+        "uf":"São Paulo",
+        "populacao":"130 866"
+    },
+    {
+        "ranking":231,
+        "municipio":"Apucarana",
+        "uf":"Paraná",
+        "populacao":"130 134"
+    },
+    {
+        "ranking":232,
+        "municipio":"Araruama",
+        "uf":"Rio de Janeiro",
+        "populacao":"129 671"
+    },
+    {
+        "ranking":233,
+        "municipio":"Resende",
+        "uf":"Rio de Janeiro",
+        "populacao":"129 612"
+    },
+    {
+        "ranking":234,
+        "municipio":"Sabará",
+        "uf":"Minas Gerais",
+        "populacao":"129 380"
+    },
+    {
+        "ranking":235,
+        "municipio":"Vespasiano",
+        "uf":"Minas Gerais",
+        "populacao":"129 246"
+    },
+    {
+        "ranking":236,
+        "municipio":"Votorantim",
+        "uf":"São Paulo",
+        "populacao":"127 923"
+    },
+    {
+        "ranking":237,
+        "municipio":"Pinhais",
+        "uf":"Paraná",
+        "populacao":"127 019"
+    },
+    {
+        "ranking":238,
+        "municipio":"Sertãozinho",
+        "uf":"São Paulo",
+        "populacao":"126 887"
+    },
+    {
+        "ranking":239,
+        "municipio":"Barcarena",
+        "uf":"Pará",
+        "populacao":"126 650"
+    },
+    {
+        "ranking":240,
+        "municipio":"Valinhos",
+        "uf":"São Paulo",
+        "populacao":"126 373"
+    },
+    {
+        "ranking":241,
+        "municipio":"Altamira",
+        "uf":"Pará",
+        "populacao":"126 279"
+    },
+    {
+        "ranking":242,
+        "municipio":"Barbacena",
+        "uf":"Minas Gerais",
+        "populacao":"125 317"
+    },
+    {
+        "ranking":243,
+        "municipio":"Guarapari",
+        "uf":"Espírito Santo",
+        "populacao":"124 656"
+    },
+    {
+        "ranking":244,
+        "municipio":"Ji-Paraná",
+        "uf":"Rondônia",
+        "populacao":"124 333"
+    },
+    {
+        "ranking":245,
+        "municipio":"Tatuí",
+        "uf":"São Paulo",
+        "populacao":"123 942"
+    },
+    {
+        "ranking":246,
+        "municipio":"São Mateus",
+        "uf":"Espírito Santo",
+        "populacao":"123 752"
+    },
+    {
+        "ranking":247,
+        "municipio":"Itaituba",
+        "uf":"Pará",
+        "populacao":"123 314"
+    },
+    {
+        "ranking":248,
+        "municipio":"Bento Gonçalves",
+        "uf":"Rio Grande do Sul",
+        "populacao":"123 151"
+    },
+    {
+        "ranking":249,
+        "municipio":"Bragança",
+        "uf":"Pará",
+        "populacao":"123 082"
+    },
+    {
+        "ranking":250,
+        "municipio":"Barretos",
+        "uf":"São Paulo",
+        "populacao":"122 485"
+    },
+    {
+        "ranking":251,
+        "municipio":"Itatiba",
+        "uf":"São Paulo",
+        "populacao":"121 590"
+    },
+    {
+        "ranking":252,
+        "municipio":"Colatina",
+        "uf":"Espírito Santo",
+        "populacao":"120 033"
+    },
+    {
+        "ranking":253,
+        "municipio":"Almirante Tamandaré",
+        "uf":"Paraná",
+        "populacao":"119 825"
+    },
+    {
+        "ranking":254,
+        "municipio":"Arapongas",
+        "uf":"Paraná",
+        "populacao":"119 138"
+    },
+    {
+        "ranking":255,
+        "municipio":"Birigui",
+        "uf":"São Paulo",
+        "populacao":"118 979"
+    },
+    {
+        "ranking":256,
+        "municipio":"Piraquara",
+        "uf":"Paraná",
+        "populacao":"118 730"
+    },
+    {
+        "ranking":257,
+        "municipio":"Sarandi",
+        "uf":"Paraná",
+        "populacao":"118 455"
+    },
+    {
+        "ranking":258,
+        "municipio":"Jandira",
+        "uf":"São Paulo",
+        "populacao":"118 045"
+    },
+    {
+        "ranking":259,
+        "municipio":"Guaratinguetá",
+        "uf":"São Paulo",
+        "populacao":"118 044"
+    },
+    {
+        "ranking":260,
+        "municipio":"Bagé",
+        "uf":"Rio Grande do Sul",
+        "populacao":"117 938"
+    },
+    {
+        "ranking":261,
+        "municipio":"Araguari",
+        "uf":"Minas Gerais",
+        "populacao":"117 808"
+    },
+    {
+        "ranking":262,
+        "municipio":"Uruguaiana",
+        "uf":"Rio Grande do Sul",
+        "populacao":"117 210"
+    },
+    {
+        "ranking":263,
+        "municipio":"Umuarama",
+        "uf":"Paraná",
+        "populacao":"117 095"
+    },
+    {
+        "ranking":264,
+        "municipio":"Itaguaí",
+        "uf":"Rio de Janeiro",
+        "populacao":"116 841"
+    },
+    {
+        "ranking":265,
+        "municipio":"Formosa",
+        "uf":"Goiás",
+        "populacao":"115 901"
+    },
+    {
+        "ranking":266,
+        "municipio":"São Gonçalo do Amarante",
+        "uf":"Rio Grande do Norte",
+        "populacao":"115 838"
+    },
+    {
+        "ranking":267,
+        "municipio":"Catanduva",
+        "uf":"São Paulo",
+        "populacao":"115 791"
+    },
+    {
+        "ranking":268,
+        "municipio":"Várzea Paulista",
+        "uf":"São Paulo",
+        "populacao":"115 771"
+    },
+    {
+        "ranking":269,
+        "municipio":"Ribeirão Pires",
+        "uf":"São Paulo",
+        "populacao":"115 559"
+    },
+    {
+        "ranking":270,
+        "municipio":"Igarassu",
+        "uf":"Pernambuco",
+        "populacao":"115 196"
+    },
+    {
+        "ranking":271,
+        "municipio":"Simões Filho",
+        "uf":"Bahia",
+        "populacao":"114 559"
+    },
+    {
+        "ranking":272,
+        "municipio":"Catalão",
+        "uf":"Goiás",
+        "populacao":"114 427"
+    },
+    {
+        "ranking":273,
+        "municipio":"Codó",
+        "uf":"Maranhão",
+        "populacao":"114 275"
+    },
+    {
+        "ranking":274,
+        "municipio":"Eunápolis",
+        "uf":"Bahia",
+        "populacao":"113 710"
+    },
+    {
+        "ranking":275,
+        "municipio":"Itabira",
+        "uf":"Minas Gerais",
+        "populacao":"113 343"
+    },
+    {
+        "ranking":276,
+        "municipio":"Paulo Afonso",
+        "uf":"Bahia",
+        "populacao":"112 870"
+    },
+    {
+        "ranking":277,
+        "municipio":"Itanhaém",
+        "uf":"São Paulo",
+        "populacao":"112 476"
+    },
+    {
+        "ranking":277,
+        "municipio":"Cubatão",
+        "uf":"São Paulo",
+        "populacao":"112 476"
+    },
+    {
+        "ranking":279,
+        "municipio":"Passos",
+        "uf":"Minas Gerais",
+        "populacao":"111 939"
+    },
+    {
+        "ranking":280,
+        "municipio":"Marituba",
+        "uf":"Pará",
+        "populacao":"111 785"
+    },
+    {
+        "ranking":281,
+        "municipio":"Nova Lima",
+        "uf":"Minas Gerais",
+        "populacao":"111 697"
+    },
+    {
+        "ranking":282,
+        "municipio":"Araxá",
+        "uf":"Minas Gerais",
+        "populacao":"111 691"
+    },
+    {
+        "ranking":283,
+        "municipio":"São Lourenço da Mata",
+        "uf":"Pernambuco",
+        "populacao":"111 249"
+    },
+    {
+        "ranking":284,
+        "municipio":"Sorriso",
+        "uf":"Mato Grosso",
+        "populacao":"110 635"
+    },
+    {
+        "ranking":285,
+        "municipio":"Paulínia",
+        "uf":"São Paulo",
+        "populacao":"110 537"
+    },
+    {
+        "ranking":286,
+        "municipio":"Tubarão",
+        "uf":"Santa Catarina",
+        "populacao":"110 088"
+    },
+    {
+        "ranking":287,
+        "municipio":"Itumbiara",
+        "uf":"Goiás",
+        "populacao":"107 970"
+    },
+    {
+        "ranking":288,
+        "municipio":"Luís Eduardo Magalhães",
+        "uf":"Bahia",
+        "populacao":"107 909"
+    },
+    {
+        "ranking":289,
+        "municipio":"Santana",
+        "uf":"Amapá",
+        "populacao":"107 618"
+    },
+    {
+        "ranking":290,
+        "municipio":"Cambé",
+        "uf":"Paraná",
+        "populacao":"107 208"
+    },
+    {
+        "ranking":291,
+        "municipio":"Breves",
+        "uf":"Pará",
+        "populacao":"106 968"
+    },
+    {
+        "ranking":292,
+        "municipio":"Açailândia",
+        "uf":"Maranhão",
+        "populacao":"106 550"
+    },
+    {
+        "ranking":293,
+        "municipio":"Tangará da Serra",
+        "uf":"Mato Grosso",
+        "populacao":"106 434"
+    },
+    {
+        "ranking":294,
+        "municipio":"Jataí",
+        "uf":"Goiás",
+        "populacao":"105 729"
+    },
+    {
+        "ranking":295,
+        "municipio":"Erechim",
+        "uf":"Rio Grande do Sul",
+        "populacao":"105 705"
+    },
+    {
+        "ranking":296,
+        "municipio":"Nova Serrana",
+        "uf":"Minas Gerais",
+        "populacao":"105 552"
+    },
+    {
+        "ranking":297,
+        "municipio":"Paragominas",
+        "uf":"Pará",
+        "populacao":"105 550"
+    },
+    {
+        "ranking":298,
+        "municipio":"Maranguape",
+        "uf":"Ceará",
+        "populacao":"105 093"
+    },
+    {
+        "ranking":299,
+        "municipio":"Planaltina",
+        "uf":"Goiás",
+        "populacao":"105 031"
+    },
+    {
+        "ranking":300,
+        "municipio":"Lavras",
+        "uf":"Minas Gerais",
+        "populacao":"104 761"
+    },
+    {
+        "ranking":301,
+        "municipio":"Coronel Fabriciano",
+        "uf":"Minas Gerais",
+        "populacao":"104 736"
+    },
+    {
+        "ranking":302,
+        "municipio":"Muriaé",
+        "uf":"Minas Gerais",
+        "populacao":"104 108"
+    },
+    {
+        "ranking":303,
+        "municipio":"São Pedro da Aldeia",
+        "uf":"Rio de Janeiro",
+        "populacao":"104 029"
+    },
+    {
+        "ranking":304,
+        "municipio":"Ourinhos",
+        "uf":"São Paulo",
+        "populacao":"103 970"
+    },
+    {
+        "ranking":305,
+        "municipio":"Novo Gama",
+        "uf":"Goiás",
+        "populacao":"103 804"
+    },
+    {
+        "ranking":306,
+        "municipio":"Poá",
+        "uf":"São Paulo",
+        "populacao":"103 765"
+    },
+    {
+        "ranking":307,
+        "municipio":"Bacabal",
+        "uf":"Maranhão",
+        "populacao":"103 711"
+    },
+    {
+        "ranking":308,
+        "municipio":"Itacoatiara",
+        "uf":"Amazonas",
+        "populacao":"103 598"
+    },
+    {
+        "ranking":309,
+        "municipio":"Itabaiana",
+        "uf":"Sergipe",
+        "populacao":"103 440"
+    },
+    {
+        "ranking":310,
+        "municipio":"Ubá",
+        "uf":"Minas Gerais",
+        "populacao":"103 365"
+    },
+    {
+        "ranking":311,
+        "municipio":"Patos",
+        "uf":"Paraíba",
+        "populacao":"103 165"
+    },
+    {
+        "ranking":312,
+        "municipio":"Camboriú",
+        "uf":"Santa Catarina",
+        "populacao":"103 074"
+    },
+    {
+        "ranking":313,
+        "municipio":"Santo Antônio de Jesus",
+        "uf":"Bahia",
+        "populacao":"103 055"
+    },
+    {
+        "ranking":314,
+        "municipio":"Ituiutaba",
+        "uf":"Minas Gerais",
+        "populacao":"102 217"
+    },
+    {
+        "ranking":315,
+        "municipio":"Manacapuru",
+        "uf":"Amazonas",
+        "populacao":"101 883"
+    },
+    {
+        "ranking":316,
+        "municipio":"Balsas",
+        "uf":"Maranhão",
+        "populacao":"101 767"
+    },
+    {
+        "ranking":317,
+        "municipio":"Lagarto",
+        "uf":"Sergipe",
+        "populacao":"101 579"
+    },
+    {
+        "ranking":318,
+        "municipio":"Assis",
+        "uf":"São Paulo",
+        "populacao":"101 409"
+    },
+    {
+        "ranking":319,
+        "municipio":"Itaperuna",
+        "uf":"Rio de Janeiro",
+        "populacao":"101 041"
+    }
+]

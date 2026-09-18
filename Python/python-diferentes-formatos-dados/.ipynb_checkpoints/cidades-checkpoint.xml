@@ -1,0 +1,1917 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <ranking>1</ranking>
+    <municipio>São Paulo</municipio>
+    <uf>São Paulo</uf>
+    <populacao>11 451 999</populacao>
+  </row>
+  <row>
+    <ranking>2</ranking>
+    <municipio>Rio de Janeiro</municipio>
+    <uf>Rio de Janeiro</uf>
+    <populacao>6 211 223</populacao>
+  </row>
+  <row>
+    <ranking>3</ranking>
+    <municipio>Brasília</municipio>
+    <uf>Distrito Federal</uf>
+    <populacao>2 817 381</populacao>
+  </row>
+  <row>
+    <ranking>4</ranking>
+    <municipio>Fortaleza</municipio>
+    <uf>Ceará</uf>
+    <populacao>2 428 708</populacao>
+  </row>
+  <row>
+    <ranking>5</ranking>
+    <municipio>Salvador</municipio>
+    <uf>Bahia</uf>
+    <populacao>2 417 678</populacao>
+  </row>
+  <row>
+    <ranking>6</ranking>
+    <municipio>Belo Horizonte</municipio>
+    <uf>Minas Gerais</uf>
+    <populacao>2 315 560</populacao>
+  </row>
+  <row>
+    <ranking>7</ranking>
+    <municipio>Manaus</municipio>
+    <uf>Amazonas</uf>
+    <populacao>2 063 689</populacao>
+  </row>
+  <row>
+    <ranking>8</ranking>
+    <municipio>Curitiba</municipio>
+    <uf>Paraná</uf>
+    <populacao>1 773 718</populacao>
+  </row>
+  <row>
+    <ranking>9</ranking>
+    <municipio>Recife</municipio>
+    <uf>Pernambuco</uf>
+    <populacao>1 488 920</populacao>
+  </row>
+  <row>
+    <ranking>10</ranking>
+    <municipio>Goiânia</municipio>
+    <uf>Goiás</uf>
+    <populacao>1 437 366</populacao>
+  </row>
+  <row>
+    <ranking>11</ranking>
+    <municipio>Porto Alegre</municipio>
+    <uf>Rio Grande do Sul</uf>
+    <populacao>1 332 845</populacao>
+  </row>
+  <row>
+    <ranking>12</ranking>
+    <municipio>Belém</municipio>
+    <uf>Pará</uf>
+    <populacao>1 303 403</populacao>
+  </row>
+  <row>
+    <ranking>13</ranking>
+    <municipio>Guarulhos</municipio>
+    <uf>São Paulo</uf>
+    <populacao>1 291 771</populacao>
+  </row>
+  <row>
+    <ranking>14</ranking>
+    <municipio>Campinas</municipio>
+    <uf>São Paulo</uf>
+    <populacao>1 139 047</populacao>
+  </row>
+  <row>
+    <ranking>15</ranking>
+    <municipio>São Luís</municipio>
+    <uf>Maranhão</uf>
+    <populacao>1 037 775</populacao>
+  </row>
+  <row>
+    <ranking>16</ranking>
+    <municipio>Maceió</municipio>
+    <uf>Alagoas</uf>
+    <populacao>957 916</populacao>
+  </row>
+  <row>
+    <ranking>17</ranking>
+    <municipio>Campo Grande</municipio>
+    <uf>Mato Grosso do Sul</uf>
+    <populacao>898 100</populacao>
+  </row>
+  <row>
+    <ranking>18</ranking>
+    <municipio>São Gonçalo</municipio>
+    <uf>Rio de Janeiro</uf>
+    <populacao>896 744</populacao>
+  </row>
+  <row>
+    <ranking>19</ranking>
+    <municipio>Teresina</municipio>
+    <uf>Piauí</uf>
+    <populacao>866 300</populacao>
+  </row>
+  <row>
+    <ranking>20</ranking>
+    <municipio>João Pessoa</municipio>
+    <uf>Paraíba</uf>
+    <populacao>833 932</populacao>
+  </row>
+  <row>
+    <ranking>21</ranking>
+    <municipio>São Bernardo do Campo</municipio>
+    <uf>São Paulo</uf>
+    <populacao>810 729</populacao>
+  </row>
+  <row>
+    <ranking>22</ranking>
+    <municipio>Duque de Caxias</municipio>
+    <uf>Rio de Janeiro</uf>
+    <populacao>808 161</populacao>
+  </row>
+  <row>
+    <ranking>23</ranking>
+    <municipio>Nova Iguaçu</municipio>
+    <uf>Rio de Janeiro</uf>
+    <populacao>785 867</populacao>
+  </row>
+  <row>
+    <ranking>24</ranking>
+    <municipio>Natal</municipio>
+    <uf>Rio Grande do Norte</uf>
+    <populacao>751 300</populacao>
+  </row>
+  <row>
+    <ranking>25</ranking>
+    <municipio>Santo André</municipio>
+    <uf>São Paulo</uf>
+    <populacao>748 919</populacao>
+  </row>
+  <row>
+    <ranking>26</ranking>
+    <municipio>Osasco</municipio>
+    <uf>São Paulo</uf>
+    <populacao>728 615</populacao>
+  </row>
+  <row>
+    <ranking>27</ranking>
+    <municipio>Sorocaba</municipio>
+    <uf>São Paulo</uf>
+    <populacao>723 682</populacao>
+  </row>
+  <row>
+    <ranking>28</ranking>
+    <municipio>Uberlândia</municipio>
+    <uf>Minas Gerais</uf>
+    <populacao>713 224</populacao>
+  </row>
+  <row>
+    <ranking>29</ranking>
+    <municipio>Ribeirão Preto</municipio>
+    <uf>São Paulo</uf>
+    <populacao>698 642</populacao>
+  </row>
+  <row>
+    <ranking>30</ranking>
+    <municipio>São José dos Campos</municipio>
+    <uf>São Paulo</uf>
+    <populacao>697 054</populacao>
+  </row>
+  <row>
+    <ranking>31</ranking>
+    <municipio>Cuiabá</municipio>
+    <uf>Mato Grosso</uf>
+    <populacao>650 877</populacao>
+  </row>
+  <row>
+    <ranking>32</ranking>
+    <municipio>Jaboatão dos Guararapes</municipio>
+    <uf>Pernambuco</uf>
+    <populacao>644 037</populacao>
+  </row>
+  <row>
+    <ranking>33</ranking>
+    <municipio>Contagem</municipio>
+    <uf>Minas Gerais</uf>
+    <populacao>621 863</populacao>
+  </row>
+  <row>
+    <ranking>34</ranking>
+    <municipio>Joinville</municipio>
+    <uf>Santa Catarina</uf>
+    <populacao>616 317</populacao>
+  </row>
+  <row>
+    <ranking>35</ranking>
+    <municipio>Feira de Santana</municipio>
+    <uf>Bahia</uf>
+    <populacao>616 272</populacao>
+  </row>
+  <row>
+    <ranking>36</ranking>
+    <municipio>Aracaju</municipio>
+    <uf>Sergipe</uf>
+    <populacao>602 757</populacao>
+  </row>
+  <row>
+    <ranking>37</ranking>
+    <municipio>Londrina</municipio>
+    <uf>Paraná</uf>
+    <populacao>555 965</populacao>
+  </row>
+  <row>
+    <ranking>38</ranking>
+    <municipio>Juiz de Fora</municipio>
+    <uf>Minas Gerais</uf>
+    <populacao>540 756</populacao>
+  </row>
+  <row>
+    <ranking>39</ranking>
+    <municipio>Florianópolis</municipio>
+    <uf>Santa Catarina</uf>
+    <populacao>537 211</populacao>
+  </row>
+  <row>
+    <ranking>40</ranking>
+    <municipio>Aparecida de Goiânia</municipio>
+    <uf>Goiás</uf>
+    <populacao>527 796</populacao>
+  </row>
+  <row>
+    <ranking>41</ranking>
+    <municipio>Serra</municipio>
+    <uf>Espírito Santo</uf>
+    <populacao>520 653</populacao>
+  </row>
+  <row>
+    <ranking>42</ranking>
+    <municipio>Campos dos Goytacazes</municipio>
+    <uf>Rio de Janeiro</uf>
+    <populacao>483 540</populacao>
+  </row>
+  <row>
+    <ranking>43</ranking>
+    <municipio>Belford Roxo</municipio>
+    <uf>Rio de Janeiro</uf>
+    <populacao>483 087</populacao>
+  </row>
+  <row>
+    <ranking>44</ranking>
+    <municipio>Niterói</municipio>
+    <uf>Rio de Janeiro</uf>
+    <populacao>481 749</populacao>
+  </row>
+  <row>
+    <ranking>45</ranking>
+    <municipio>São José do Rio Preto</municipio>
+    <uf>São Paulo</uf>
+    <populacao>480 393</populacao>
+  </row>
+  <row>
+    <ranking>46</ranking>
+    <municipio>Ananindeua</municipio>
+    <uf>Pará</uf>
+    <populacao>478 778</populacao>
+  </row>
+  <row>
+    <ranking>47</ranking>
+    <municipio>Vila Velha</municipio>
+    <uf>Espírito Santo</uf>
+    <populacao>467 722</populacao>
+  </row>
+  <row>
+    <ranking>48</ranking>
+    <municipio>Caxias do Sul</municipio>
+    <uf>Rio Grande do Sul</uf>
+    <populacao>463 501</populacao>
+  </row>
+  <row>
+    <ranking>49</ranking>
+    <municipio>Porto Velho</municipio>
+    <uf>Rondônia</uf>
+    <populacao>460 434</populacao>
+  </row>
+  <row>
+    <ranking>50</ranking>
+    <municipio>Mogi das Cruzes</municipio>
+    <uf>São Paulo</uf>
+    <populacao>451 505</populacao>
+  </row>
+  <row>
+    <ranking>51</ranking>
+    <municipio>Jundiaí</municipio>
+    <uf>São Paulo</uf>
+    <populacao>443 221</populacao>
+  </row>
+  <row>
+    <ranking>52</ranking>
+    <municipio>Macapá</municipio>
+    <uf>Amapá</uf>
+    <populacao>442 933</populacao>
+  </row>
+  <row>
+    <ranking>53</ranking>
+    <municipio>São João de Meriti</municipio>
+    <uf>Rio de Janeiro</uf>
+    <populacao>440 962</populacao>
+  </row>
+  <row>
+    <ranking>54</ranking>
+    <municipio>Piracicaba</municipio>
+    <uf>São Paulo</uf>
+    <populacao>423 323</populacao>
+  </row>
+  <row>
+    <ranking>55</ranking>
+    <municipio>Campina Grande</municipio>
+    <uf>Paraíba</uf>
+    <populacao>419 379</populacao>
+  </row>
+  <row>
+    <ranking>56</ranking>
+    <municipio>Santos</municipio>
+    <uf>São Paulo</uf>
+    <populacao>418 608</populacao>
+  </row>
+  <row>
+    <ranking>57</ranking>
+    <municipio>Mauá</municipio>
+    <uf>São Paulo</uf>
+    <populacao>418 261</populacao>
+  </row>
+  <row>
+    <ranking>58</ranking>
+    <municipio>Montes Claros</municipio>
+    <uf>Minas Gerais</uf>
+    <populacao>414 240</populacao>
+  </row>
+  <row>
+    <ranking>59</ranking>
+    <municipio>Boa Vista</municipio>
+    <uf>Roraima</uf>
+    <populacao>413 486</populacao>
+  </row>
+  <row>
+    <ranking>60</ranking>
+    <municipio>Betim</municipio>
+    <uf>Minas Gerais</uf>
+    <populacao>411 846</populacao>
+  </row>
+  <row>
+    <ranking>61</ranking>
+    <municipio>Maringá</municipio>
+    <uf>Paraná</uf>
+    <populacao>409 657</populacao>
+  </row>
+  <row>
+    <ranking>62</ranking>
+    <municipio>Anápolis</municipio>
+    <uf>Goiás</uf>
+    <populacao>398 869</populacao>
+  </row>
+  <row>
+    <ranking>63</ranking>
+    <municipio>Diadema</municipio>
+    <uf>São Paulo</uf>
+    <populacao>393 237</populacao>
+  </row>
+  <row>
+    <ranking>64</ranking>
+    <municipio>Carapicuíba</municipio>
+    <uf>São Paulo</uf>
+    <populacao>386 984</populacao>
+  </row>
+  <row>
+    <ranking>65</ranking>
+    <municipio>Petrolina</municipio>
+    <uf>Pernambuco</uf>
+    <populacao>386 791</populacao>
+  </row>
+  <row>
+    <ranking>66</ranking>
+    <municipio>Bauru</municipio>
+    <uf>São Paulo</uf>
+    <populacao>379 146</populacao>
+  </row>
+  <row>
+    <ranking>67</ranking>
+    <municipio>Caruaru</municipio>
+    <uf>Pernambuco</uf>
+    <populacao>378 048</populacao>
+  </row>
+  <row>
+    <ranking>68</ranking>
+    <municipio>Vitória da Conquista</municipio>
+    <uf>Bahia</uf>
+    <populacao>370 879</populacao>
+  </row>
+  <row>
+    <ranking>69</ranking>
+    <municipio>Itaquaquecetuba</municipio>
+    <uf>São Paulo</uf>
+    <populacao>369 275</populacao>
+  </row>
+  <row>
+    <ranking>70</ranking>
+    <municipio>Rio Branco</municipio>
+    <uf>Acre</uf>
+    <populacao>364 756</populacao>
+  </row>
+  <row>
+    <ranking>71</ranking>
+    <municipio>Blumenau</municipio>
+    <uf>Santa Catarina</uf>
+    <populacao>361 261</populacao>
+  </row>
+  <row>
+    <ranking>72</ranking>
+    <municipio>Ponta Grossa</municipio>
+    <uf>Paraná</uf>
+    <populacao>358 371</populacao>
+  </row>
+  <row>
+    <ranking>73</ranking>
+    <municipio>Caucaia</municipio>
+    <uf>Ceará</uf>
+    <populacao>355 679</populacao>
+  </row>
+  <row>
+    <ranking>74</ranking>
+    <municipio>Cariacica</municipio>
+    <uf>Espírito Santo</uf>
+    <populacao>353 491</populacao>
+  </row>
+  <row>
+    <ranking>75</ranking>
+    <municipio>Franca</municipio>
+    <uf>São Paulo</uf>
+    <populacao>352 536</populacao>
+  </row>
+  <row>
+    <ranking>76</ranking>
+    <municipio>Olinda</municipio>
+    <uf>Pernambuco</uf>
+    <populacao>349 976</populacao>
+  </row>
+  <row>
+    <ranking>77</ranking>
+    <municipio>Praia Grande</municipio>
+    <uf>São Paulo</uf>
+    <populacao>349 935</populacao>
+  </row>
+  <row>
+    <ranking>78</ranking>
+    <municipio>Cascavel</municipio>
+    <uf>Paraná</uf>
+    <populacao>348 051</populacao>
+  </row>
+  <row>
+    <ranking>79</ranking>
+    <municipio>Canoas</municipio>
+    <uf>Rio Grande do Sul</uf>
+    <populacao>347 657</populacao>
+  </row>
+  <row>
+    <ranking>80</ranking>
+    <municipio>Paulista</municipio>
+    <uf>Pernambuco</uf>
+    <populacao>342 167</populacao>
+  </row>
+  <row>
+    <ranking>81</ranking>
+    <municipio>Uberaba</municipio>
+    <uf>Minas Gerais</uf>
+    <populacao>337 836</populacao>
+  </row>
+  <row>
+    <ranking>82</ranking>
+    <municipio>Santarém</municipio>
+    <uf>Pará</uf>
+    <populacao>331 942</populacao>
+  </row>
+  <row>
+    <ranking>83</ranking>
+    <municipio>São Vicente</municipio>
+    <uf>São Paulo</uf>
+    <populacao>329 911</populacao>
+  </row>
+  <row>
+    <ranking>84</ranking>
+    <municipio>Ribeirão das Neves</municipio>
+    <uf>Minas Gerais</uf>
+    <populacao>329 794</populacao>
+  </row>
+  <row>
+    <ranking>85</ranking>
+    <municipio>São José dos Pinhais</municipio>
+    <uf>Paraná</uf>
+    <populacao>329 628</populacao>
+  </row>
+  <row>
+    <ranking>86</ranking>
+    <municipio>Pelotas</municipio>
+    <uf>Rio Grande do Sul</uf>
+    <populacao>325 685</populacao>
+  </row>
+  <row>
+    <ranking>87</ranking>
+    <municipio>Vitória</municipio>
+    <uf>Espírito Santo</uf>
+    <populacao>322 869</populacao>
+  </row>
+  <row>
+    <ranking>88</ranking>
+    <municipio>Barueri</municipio>
+    <uf>São Paulo</uf>
+    <populacao>316 473</populacao>
+  </row>
+  <row>
+    <ranking>89</ranking>
+    <municipio>Taubaté</municipio>
+    <uf>São Paulo</uf>
+    <populacao>310 739</populacao>
+  </row>
+  <row>
+    <ranking>90</ranking>
+    <municipio>Suzano</municipio>
+    <uf>São Paulo</uf>
+    <populacao>307 429</populacao>
+  </row>
+  <row>
+    <ranking>91</ranking>
+    <municipio>Palmas</municipio>
+    <uf>Tocantins</uf>
+    <populacao>302 692</populacao>
+  </row>
+  <row>
+    <ranking>92</ranking>
+    <municipio>Camaçari</municipio>
+    <uf>Bahia</uf>
+    <populacao>300 372</populacao>
+  </row>
+  <row>
+    <ranking>93</ranking>
+    <municipio>Várzea Grande</municipio>
+    <uf>Mato Grosso</uf>
+    <populacao>300 078</populacao>
+  </row>
+  <row>
+    <ranking>94</ranking>
+    <municipio>Limeira</municipio>
+    <uf>São Paulo</uf>
+    <populacao>291 869</populacao>
+  </row>
+  <row>
+    <ranking>95</ranking>
+    <municipio>Guarujá</municipio>
+    <uf>São Paulo</uf>
+    <populacao>287 634</populacao>
+  </row>
+  <row>
+    <ranking>96</ranking>
+    <municipio>Juazeiro do Norte</municipio>
+    <uf>Ceará</uf>
+    <populacao>286 120</populacao>
+  </row>
+  <row>
+    <ranking>97</ranking>
+    <municipio>Foz do Iguaçu</municipio>
+    <uf>Paraná</uf>
+    <populacao>285 415</populacao>
+  </row>
+  <row>
+    <ranking>98</ranking>
+    <municipio>Sumaré</municipio>
+    <uf>São Paulo</uf>
+    <populacao>279 545</populacao>
+  </row>
+  <row>
+    <ranking>99</ranking>
+    <municipio>Petrópolis</municipio>
+    <uf>Rio de Janeiro</uf>
+    <populacao>278 881</populacao>
+  </row>
+  <row>
+    <ranking>100</ranking>
+    <municipio>Cotia</municipio>
+    <uf>São Paulo</uf>
+    <populacao>274 413</populacao>
+  </row>
+  <row>
+    <ranking>101</ranking>
+    <municipio>Taboão da Serra</municipio>
+    <uf>São Paulo</uf>
+    <populacao>273 542</populacao>
+  </row>
+  <row>
+    <ranking>102</ranking>
+    <municipio>Imperatriz</municipio>
+    <uf>Maranhão</uf>
+    <populacao>273 110</populacao>
+  </row>
+  <row>
+    <ranking>103</ranking>
+    <municipio>Santa Maria</municipio>
+    <uf>Rio Grande do Sul</uf>
+    <populacao>271 735</populacao>
+  </row>
+  <row>
+    <ranking>104</ranking>
+    <municipio>São José</municipio>
+    <uf>Santa Catarina</uf>
+    <populacao>270 299</populacao>
+  </row>
+  <row>
+    <ranking>105</ranking>
+    <municipio>Parauapebas</municipio>
+    <uf>Pará</uf>
+    <populacao>267 836</populacao>
+  </row>
+  <row>
+    <ranking>106</ranking>
+    <municipio>Marabá</municipio>
+    <uf>Pará</uf>
+    <populacao>266 533</populacao>
+  </row>
+  <row>
+    <ranking>107</ranking>
+    <municipio>Gravataí</municipio>
+    <uf>Rio Grande do Sul</uf>
+    <populacao>265 074</populacao>
+  </row>
+  <row>
+    <ranking>108</ranking>
+    <municipio>Mossoró</municipio>
+    <uf>Rio Grande do Norte</uf>
+    <populacao>264 577</populacao>
+  </row>
+  <row>
+    <ranking>109</ranking>
+    <municipio>Itajaí</municipio>
+    <uf>Santa Catarina</uf>
+    <populacao>264 054</populacao>
+  </row>
+  <row>
+    <ranking>110</ranking>
+    <municipio>Volta Redonda</municipio>
+    <uf>Rio de Janeiro</uf>
+    <populacao>261 563</populacao>
+  </row>
+  <row>
+    <ranking>111</ranking>
+    <municipio>Governador Valadares</municipio>
+    <uf>Minas Gerais</uf>
+    <populacao>257 171</populacao>
+  </row>
+  <row>
+    <ranking>112</ranking>
+    <municipio>Indaiatuba</municipio>
+    <uf>São Paulo</uf>
+    <populacao>255 748</populacao>
+  </row>
+  <row>
+    <ranking>113</ranking>
+    <municipio>São Carlos</municipio>
+    <uf>São Paulo</uf>
+    <populacao>254 857</populacao>
+  </row>
+  <row>
+    <ranking>114</ranking>
+    <municipio>Chapecó</municipio>
+    <uf>Santa Catarina</uf>
+    <populacao>254 785</populacao>
+  </row>
+  <row>
+    <ranking>115</ranking>
+    <municipio>Parnamirim</municipio>
+    <uf>Rio Grande do Norte</uf>
+    <populacao>252 716</populacao>
+  </row>
+  <row>
+    <ranking>116</ranking>
+    <municipio>Embu das Artes</municipio>
+    <uf>São Paulo</uf>
+    <populacao>250 691</populacao>
+  </row>
+  <row>
+    <ranking>117</ranking>
+    <municipio>Macaé</municipio>
+    <uf>Rio de Janeiro</uf>
+    <populacao>246 391</populacao>
+  </row>
+  <row>
+    <ranking>118</ranking>
+    <municipio>Rondonópolis</municipio>
+    <uf>Mato Grosso</uf>
+    <populacao>244 911</populacao>
+  </row>
+  <row>
+    <ranking>119</ranking>
+    <municipio>São José de Ribamar</municipio>
+    <uf>Maranhão</uf>
+    <populacao>244 579</populacao>
+  </row>
+  <row>
+    <ranking>120</ranking>
+    <municipio>Dourados</municipio>
+    <uf>Mato Grosso do Sul</uf>
+    <populacao>243 367</populacao>
+  </row>
+  <row>
+    <ranking>121</ranking>
+    <municipio>Araraquara</municipio>
+    <uf>São Paulo</uf>
+    <populacao>242 228</populacao>
+  </row>
+  <row>
+    <ranking>122</ranking>
+    <municipio>Jacareí</municipio>
+    <uf>São Paulo</uf>
+    <populacao>240 275</populacao>
+  </row>
+  <row>
+    <ranking>123</ranking>
+    <municipio>Juazeiro</municipio>
+    <uf>Bahia</uf>
+    <populacao>237 821</populacao>
+  </row>
+  <row>
+    <ranking>124</ranking>
+    <municipio>Marília</municipio>
+    <uf>São Paulo</uf>
+    <populacao>237 627</populacao>
+  </row>
+  <row>
+    <ranking>125</ranking>
+    <municipio>Americana</municipio>
+    <uf>São Paulo</uf>
+    <populacao>237 240</populacao>
+  </row>
+  <row>
+    <ranking>126</ranking>
+    <municipio>Hortolândia</municipio>
+    <uf>São Paulo</uf>
+    <populacao>236 641</populacao>
+  </row>
+  <row>
+    <ranking>127</ranking>
+    <municipio>Arapiraca</municipio>
+    <uf>Alagoas</uf>
+    <populacao>234 696</populacao>
+  </row>
+  <row>
+    <ranking>128</ranking>
+    <municipio>Maracanaú</municipio>
+    <uf>Ceará</uf>
+    <populacao>234 509</populacao>
+  </row>
+  <row>
+    <ranking>129</ranking>
+    <municipio>Itapevi</municipio>
+    <uf>São Paulo</uf>
+    <populacao>232 297</populacao>
+  </row>
+  <row>
+    <ranking>130</ranking>
+    <municipio>Colombo</municipio>
+    <uf>Paraná</uf>
+    <populacao>232 212</populacao>
+  </row>
+  <row>
+    <ranking>131</ranking>
+    <municipio>Divinópolis</municipio>
+    <uf>Minas Gerais</uf>
+    <populacao>231 091</populacao>
+  </row>
+  <row>
+    <ranking>132</ranking>
+    <municipio>Magé</municipio>
+    <uf>Rio de Janeiro</uf>
+    <populacao>228 127</populacao>
+  </row>
+  <row>
+    <ranking>133</ranking>
+    <municipio>Ipatinga</municipio>
+    <uf>Minas Gerais</uf>
+    <populacao>227 731</populacao>
+  </row>
+  <row>
+    <ranking>134</ranking>
+    <municipio>Novo Hamburgo</municipio>
+    <uf>Rio Grande do Sul</uf>
+    <populacao>227 646</populacao>
+  </row>
+  <row>
+    <ranking>135</ranking>
+    <municipio>Sete Lagoas</municipio>
+    <uf>Minas Gerais</uf>
+    <populacao>227 397</populacao>
+  </row>
+  <row>
+    <ranking>136</ranking>
+    <municipio>Rio Verde</municipio>
+    <uf>Goiás</uf>
+    <populacao>225 696</populacao>
+  </row>
+  <row>
+    <ranking>137</ranking>
+    <municipio>Águas Lindas de Goiás</municipio>
+    <uf>Goiás</uf>
+    <populacao>225 693</populacao>
+  </row>
+  <row>
+    <ranking>138</ranking>
+    <municipio>Presidente Prudente</municipio>
+    <uf>São Paulo</uf>
+    <populacao>225 668</populacao>
+  </row>
+  <row>
+    <ranking>139</ranking>
+    <municipio>Itaboraí</municipio>
+    <uf>Rio de Janeiro</uf>
+    <populacao>224 267</populacao>
+  </row>
+  <row>
+    <ranking>140</ranking>
+    <municipio>Viamão</municipio>
+    <uf>Rio Grande do Sul</uf>
+    <populacao>224 112</populacao>
+  </row>
+  <row>
+    <ranking>141</ranking>
+    <municipio>Palhoça</municipio>
+    <uf>Santa Catarina</uf>
+    <populacao>222 598</populacao>
+  </row>
+  <row>
+    <ranking>142</ranking>
+    <municipio>Cabo Frio</municipio>
+    <uf>Rio de Janeiro</uf>
+    <populacao>222 161</populacao>
+  </row>
+  <row>
+    <ranking>143</ranking>
+    <municipio>Santa Luzia</municipio>
+    <uf>Minas Gerais</uf>
+    <populacao>219 132</populacao>
+  </row>
+  <row>
+    <ranking>144</ranking>
+    <municipio>São Leopoldo</municipio>
+    <uf>Rio Grande do Sul</uf>
+    <populacao>217 409</populacao>
+  </row>
+  <row>
+    <ranking>145</ranking>
+    <municipio>Criciúma</municipio>
+    <uf>Santa Catarina</uf>
+    <populacao>214 493</populacao>
+  </row>
+  <row>
+    <ranking>146</ranking>
+    <municipio>Luziânia</municipio>
+    <uf>Goiás</uf>
+    <populacao>209 129</populacao>
+  </row>
+  <row>
+    <ranking>147</ranking>
+    <municipio>Passo Fundo</municipio>
+    <uf>Rio Grande do Sul</uf>
+    <populacao>206 215</populacao>
+  </row>
+  <row>
+    <ranking>148</ranking>
+    <municipio>Cabo de Santo Agostinho</municipio>
+    <uf>Pernambuco</uf>
+    <populacao>203 440</populacao>
+  </row>
+  <row>
+    <ranking>149</ranking>
+    <municipio>Lauro de Freitas</municipio>
+    <uf>Bahia</uf>
+    <populacao>203 331</populacao>
+  </row>
+  <row>
+    <ranking>150</ranking>
+    <municipio>Sobral</municipio>
+    <uf>Ceará</uf>
+    <populacao>203 023</populacao>
+  </row>
+  <row>
+    <ranking>151</ranking>
+    <municipio>Rio Claro</municipio>
+    <uf>São Paulo</uf>
+    <populacao>201 418</populacao>
+  </row>
+  <row>
+    <ranking>152</ranking>
+    <municipio>Araçatuba</municipio>
+    <uf>São Paulo</uf>
+    <populacao>200 124</populacao>
+  </row>
+  <row>
+    <ranking>153</ranking>
+    <municipio>Valparaíso de Goiás</municipio>
+    <uf>Goiás</uf>
+    <populacao>198 861</populacao>
+  </row>
+  <row>
+    <ranking>154</ranking>
+    <municipio>Maricá</municipio>
+    <uf>Rio de Janeiro</uf>
+    <populacao>197 277</populacao>
+  </row>
+  <row>
+    <ranking>155</ranking>
+    <municipio>Sinop</municipio>
+    <uf>Mato Grosso</uf>
+    <populacao>196 312</populacao>
+  </row>
+  <row>
+    <ranking>156</ranking>
+    <municipio>Nossa Senhora do Socorro</municipio>
+    <uf>Sergipe</uf>
+    <populacao>192 330</populacao>
+  </row>
+  <row>
+    <ranking>157</ranking>
+    <municipio>Castanhal</municipio>
+    <uf>Pará</uf>
+    <populacao>192 256</populacao>
+  </row>
+  <row>
+    <ranking>158</ranking>
+    <municipio>Rio Grande</municipio>
+    <uf>Rio Grande do Sul</uf>
+    <populacao>191 900</populacao>
+  </row>
+  <row>
+    <ranking>159</ranking>
+    <municipio>Nova Friburgo</municipio>
+    <uf>Rio de Janeiro</uf>
+    <populacao>189 939</populacao>
+  </row>
+  <row>
+    <ranking>160</ranking>
+    <municipio>Alvorada</municipio>
+    <uf>Rio Grande do Sul</uf>
+    <populacao>187 315</populacao>
+  </row>
+  <row>
+    <ranking>161</ranking>
+    <municipio>Itabuna</municipio>
+    <uf>Bahia</uf>
+    <populacao>186 708</populacao>
+  </row>
+  <row>
+    <ranking>162</ranking>
+    <municipio>Cachoeiro de Itapemirim</municipio>
+    <uf>Espírito Santo</uf>
+    <populacao>185 786</populacao>
+  </row>
+  <row>
+    <ranking>163</ranking>
+    <municipio>Santa Bárbara d'Oeste</municipio>
+    <uf>São Paulo</uf>
+    <populacao>183 347</populacao>
+  </row>
+  <row>
+    <ranking>164</ranking>
+    <municipio>Jaraguá do Sul</municipio>
+    <uf>Santa Catarina</uf>
+    <populacao>182 660</populacao>
+  </row>
+  <row>
+    <ranking>165</ranking>
+    <municipio>Guarapuava</municipio>
+    <uf>Paraná</uf>
+    <populacao>182 093</populacao>
+  </row>
+  <row>
+    <ranking>166</ranking>
+    <municipio>Ferraz de Vasconcelos</municipio>
+    <uf>São Paulo</uf>
+    <populacao>179 198</populacao>
+  </row>
+  <row>
+    <ranking>167</ranking>
+    <municipio>Ilhéus</municipio>
+    <uf>Bahia</uf>
+    <populacao>178 649</populacao>
+  </row>
+  <row>
+    <ranking>168</ranking>
+    <municipio>Bragança Paulista</municipio>
+    <uf>São Paulo</uf>
+    <populacao>176 811</populacao>
+  </row>
+  <row>
+    <ranking>169</ranking>
+    <municipio>Timon</municipio>
+    <uf>Maranhão</uf>
+    <populacao>174 465</populacao>
+  </row>
+  <row>
+    <ranking>170</ranking>
+    <municipio>Araguaína</municipio>
+    <uf>Tocantins</uf>
+    <populacao>171 301</populacao>
+  </row>
+  <row>
+    <ranking>171</ranking>
+    <municipio>Ibirité</municipio>
+    <uf>Minas Gerais</uf>
+    <populacao>170 537</populacao>
+  </row>
+  <row>
+    <ranking>172</ranking>
+    <municipio>Barra Mansa</municipio>
+    <uf>Rio de Janeiro</uf>
+    <populacao>169 894</populacao>
+  </row>
+  <row>
+    <ranking>173</ranking>
+    <municipio>Porto Seguro</municipio>
+    <uf>Bahia</uf>
+    <populacao>168 326</populacao>
+  </row>
+  <row>
+    <ranking>174</ranking>
+    <municipio>Itu</municipio>
+    <uf>São Paulo</uf>
+    <populacao>168 240</populacao>
+  </row>
+  <row>
+    <ranking>175</ranking>
+    <municipio>Angra dos Reis</municipio>
+    <uf>Rio de Janeiro</uf>
+    <populacao>167 434</populacao>
+  </row>
+  <row>
+    <ranking>176</ranking>
+    <municipio>Mesquita</municipio>
+    <uf>Rio de Janeiro</uf>
+    <populacao>167 127</populacao>
+  </row>
+  <row>
+    <ranking>177</ranking>
+    <municipio>Linhares</municipio>
+    <uf>Espírito Santo</uf>
+    <populacao>166 786</populacao>
+  </row>
+  <row>
+    <ranking>178</ranking>
+    <municipio>São Caetano do Sul</municipio>
+    <uf>São Paulo</uf>
+    <populacao>165 655</populacao>
+  </row>
+  <row>
+    <ranking>179</ranking>
+    <municipio>Pindamonhangaba</municipio>
+    <uf>São Paulo</uf>
+    <populacao>165 428</populacao>
+  </row>
+  <row>
+    <ranking>180</ranking>
+    <municipio>Francisco Morato</municipio>
+    <uf>São Paulo</uf>
+    <populacao>165 139</populacao>
+  </row>
+  <row>
+    <ranking>181</ranking>
+    <municipio>Teresópolis</municipio>
+    <uf>Rio de Janeiro</uf>
+    <populacao>165 123</populacao>
+  </row>
+  <row>
+    <ranking>182</ranking>
+    <municipio>Lages</municipio>
+    <uf>Santa Catarina</uf>
+    <populacao>164 981</populacao>
+  </row>
+  <row>
+    <ranking>183</ranking>
+    <municipio>Poços de Caldas</municipio>
+    <uf>Minas Gerais</uf>
+    <populacao>163 742</populacao>
+  </row>
+  <row>
+    <ranking>184</ranking>
+    <municipio>Parnaíba</municipio>
+    <uf>Piauí</uf>
+    <populacao>162 159</populacao>
+  </row>
+  <row>
+    <ranking>185</ranking>
+    <municipio>Barreiras</municipio>
+    <uf>Bahia</uf>
+    <populacao>159 734</populacao>
+  </row>
+  <row>
+    <ranking>186</ranking>
+    <municipio>Patos de Minas</municipio>
+    <uf>Minas Gerais</uf>
+    <populacao>159 235</populacao>
+  </row>
+  <row>
+    <ranking>187</ranking>
+    <municipio>Jequié</municipio>
+    <uf>Bahia</uf>
+    <populacao>158 813</populacao>
+  </row>
+  <row>
+    <ranking>188</ranking>
+    <municipio>Atibaia</municipio>
+    <uf>São Paulo</uf>
+    <populacao>158 647</populacao>
+  </row>
+  <row>
+    <ranking>189</ranking>
+    <municipio>Itapecerica da Serra</municipio>
+    <uf>São Paulo</uf>
+    <populacao>158 522</populacao>
+  </row>
+  <row>
+    <ranking>190</ranking>
+    <municipio>Abaetetuba</municipio>
+    <uf>Pará</uf>
+    <populacao>158 188</populacao>
+  </row>
+  <row>
+    <ranking>191</ranking>
+    <municipio>Itapetininga</municipio>
+    <uf>São Paulo</uf>
+    <populacao>157 790</populacao>
+  </row>
+  <row>
+    <ranking>192</ranking>
+    <municipio>Caxias</municipio>
+    <uf>Maranhão</uf>
+    <populacao>156 973</populacao>
+  </row>
+  <row>
+    <ranking>193</ranking>
+    <municipio>Rio das Ostras</municipio>
+    <uf>Rio de Janeiro</uf>
+    <populacao>156 491</populacao>
+  </row>
+  <row>
+    <ranking>194</ranking>
+    <municipio>Senador Canedo</municipio>
+    <uf>Goiás</uf>
+    <populacao>155 635</populacao>
+  </row>
+  <row>
+    <ranking>195</ranking>
+    <municipio>Santana de Parnaíba</municipio>
+    <uf>São Paulo</uf>
+    <populacao>154 105</populacao>
+  </row>
+  <row>
+    <ranking>196</ranking>
+    <municipio>Mogi Guaçu</municipio>
+    <uf>São Paulo</uf>
+    <populacao>153 658</populacao>
+  </row>
+  <row>
+    <ranking>197</ranking>
+    <municipio>Pouso Alegre</municipio>
+    <uf>Minas Gerais</uf>
+    <populacao>152 217</populacao>
+  </row>
+  <row>
+    <ranking>198</ranking>
+    <municipio>Araucária</municipio>
+    <uf>Paraná</uf>
+    <populacao>151 666</populacao>
+  </row>
+  <row>
+    <ranking>199</ranking>
+    <municipio>Alagoinhas</municipio>
+    <uf>Bahia</uf>
+    <populacao>151 055</populacao>
+  </row>
+  <row>
+    <ranking>200</ranking>
+    <municipio>Toledo</municipio>
+    <uf>Paraná</uf>
+    <populacao>150 470</populacao>
+  </row>
+  <row>
+    <ranking>201</ranking>
+    <municipio>Santa Rita</municipio>
+    <uf>Paraíba</uf>
+    <populacao>149 910</populacao>
+  </row>
+  <row>
+    <ranking>202</ranking>
+    <municipio>Fazenda Rio Grande</municipio>
+    <uf>Paraná</uf>
+    <populacao>148 873</populacao>
+  </row>
+  <row>
+    <ranking>203</ranking>
+    <municipio>Camaragibe</municipio>
+    <uf>Pernambuco</uf>
+    <populacao>147 771</populacao>
+  </row>
+  <row>
+    <ranking>204</ranking>
+    <municipio>Nilópolis</municipio>
+    <uf>Rio de Janeiro</uf>
+    <populacao>146 774</populacao>
+  </row>
+  <row>
+    <ranking>205</ranking>
+    <municipio>Paranaguá</municipio>
+    <uf>Paraná</uf>
+    <populacao>145 829</populacao>
+  </row>
+  <row>
+    <ranking>206</ranking>
+    <municipio>Paço do Lumiar</municipio>
+    <uf>Maranhão</uf>
+    <populacao>145 643</populacao>
+  </row>
+  <row>
+    <ranking>207</ranking>
+    <municipio>Teixeira de Freitas</municipio>
+    <uf>Bahia</uf>
+    <populacao>145 216</populacao>
+  </row>
+  <row>
+    <ranking>208</ranking>
+    <municipio>Botucatu</municipio>
+    <uf>São Paulo</uf>
+    <populacao>145 155</populacao>
+  </row>
+  <row>
+    <ranking>209</ranking>
+    <municipio>Franco da Rocha</municipio>
+    <uf>São Paulo</uf>
+    <populacao>144 849</populacao>
+  </row>
+  <row>
+    <ranking>210</ranking>
+    <municipio>Garanhuns</municipio>
+    <uf>Pernambuco</uf>
+    <populacao>142 506</populacao>
+  </row>
+  <row>
+    <ranking>211</ranking>
+    <municipio>Trindade</municipio>
+    <uf>Goiás</uf>
+    <populacao>142 431</populacao>
+  </row>
+  <row>
+    <ranking>212</ranking>
+    <municipio>Brusque</municipio>
+    <uf>Santa Catarina</uf>
+    <populacao>141 385</populacao>
+  </row>
+  <row>
+    <ranking>213</ranking>
+    <municipio>Queimados</municipio>
+    <uf>Rio de Janeiro</uf>
+    <populacao>140 523</populacao>
+  </row>
+  <row>
+    <ranking>214</ranking>
+    <municipio>Balneário Camboriú</municipio>
+    <uf>Santa Catarina</uf>
+    <populacao>139 155</populacao>
+  </row>
+  <row>
+    <ranking>215</ranking>
+    <municipio>Teófilo Otoni</municipio>
+    <uf>Minas Gerais</uf>
+    <populacao>137 418</populacao>
+  </row>
+  <row>
+    <ranking>216</ranking>
+    <municipio>Varginha</municipio>
+    <uf>Minas Gerais</uf>
+    <populacao>136 467</populacao>
+  </row>
+  <row>
+    <ranking>217</ranking>
+    <municipio>Campo Largo</municipio>
+    <uf>Paraná</uf>
+    <populacao>136 327</populacao>
+  </row>
+  <row>
+    <ranking>218</ranking>
+    <municipio>Cachoeirinha</municipio>
+    <uf>Rio Grande do Sul</uf>
+    <populacao>136 258</populacao>
+  </row>
+  <row>
+    <ranking>219</ranking>
+    <municipio>Caraguatatuba</municipio>
+    <uf>São Paulo</uf>
+    <populacao>134 873</populacao>
+  </row>
+  <row>
+    <ranking>220</ranking>
+    <municipio>Salto</municipio>
+    <uf>São Paulo</uf>
+    <populacao>134 319</populacao>
+  </row>
+  <row>
+    <ranking>221</ranking>
+    <municipio>Cametá</municipio>
+    <uf>Pará</uf>
+    <populacao>134 184</populacao>
+  </row>
+  <row>
+    <ranking>222</ranking>
+    <municipio>Vitória de Santo Antão</municipio>
+    <uf>Pernambuco</uf>
+    <populacao>134 084</populacao>
+  </row>
+  <row>
+    <ranking>223</ranking>
+    <municipio>Jaú</municipio>
+    <uf>São Paulo</uf>
+    <populacao>133 497</populacao>
+  </row>
+  <row>
+    <ranking>224</ranking>
+    <municipio>Santa Cruz do Sul</municipio>
+    <uf>Rio Grande do Sul</uf>
+    <populacao>133 230</populacao>
+  </row>
+  <row>
+    <ranking>225</ranking>
+    <municipio>Três Lagoas</municipio>
+    <uf>Mato Grosso do Sul</uf>
+    <populacao>132 152</populacao>
+  </row>
+  <row>
+    <ranking>226</ranking>
+    <municipio>Sapucaia do Sul</municipio>
+    <uf>Rio Grande do Sul</uf>
+    <populacao>132 107</populacao>
+  </row>
+  <row>
+    <ranking>227</ranking>
+    <municipio>Conselheiro Lafaiete</municipio>
+    <uf>Minas Gerais</uf>
+    <populacao>131 621</populacao>
+  </row>
+  <row>
+    <ranking>228</ranking>
+    <municipio>Itapipoca</municipio>
+    <uf>Ceará</uf>
+    <populacao>131 123</populacao>
+  </row>
+  <row>
+    <ranking>229</ranking>
+    <municipio>Crato</municipio>
+    <uf>Ceará</uf>
+    <populacao>131 050</populacao>
+  </row>
+  <row>
+    <ranking>230</ranking>
+    <municipio>Araras</municipio>
+    <uf>São Paulo</uf>
+    <populacao>130 866</populacao>
+  </row>
+  <row>
+    <ranking>231</ranking>
+    <municipio>Apucarana</municipio>
+    <uf>Paraná</uf>
+    <populacao>130 134</populacao>
+  </row>
+  <row>
+    <ranking>232</ranking>
+    <municipio>Araruama</municipio>
+    <uf>Rio de Janeiro</uf>
+    <populacao>129 671</populacao>
+  </row>
+  <row>
+    <ranking>233</ranking>
+    <municipio>Resende</municipio>
+    <uf>Rio de Janeiro</uf>
+    <populacao>129 612</populacao>
+  </row>
+  <row>
+    <ranking>234</ranking>
+    <municipio>Sabará</municipio>
+    <uf>Minas Gerais</uf>
+    <populacao>129 380</populacao>
+  </row>
+  <row>
+    <ranking>235</ranking>
+    <municipio>Vespasiano</municipio>
+    <uf>Minas Gerais</uf>
+    <populacao>129 246</populacao>
+  </row>
+  <row>
+    <ranking>236</ranking>
+    <municipio>Votorantim</municipio>
+    <uf>São Paulo</uf>
+    <populacao>127 923</populacao>
+  </row>
+  <row>
+    <ranking>237</ranking>
+    <municipio>Pinhais</municipio>
+    <uf>Paraná</uf>
+    <populacao>127 019</populacao>
+  </row>
+  <row>
+    <ranking>238</ranking>
+    <municipio>Sertãozinho</municipio>
+    <uf>São Paulo</uf>
+    <populacao>126 887</populacao>
+  </row>
+  <row>
+    <ranking>239</ranking>
+    <municipio>Barcarena</municipio>
+    <uf>Pará</uf>
+    <populacao>126 650</populacao>
+  </row>
+  <row>
+    <ranking>240</ranking>
+    <municipio>Valinhos</municipio>
+    <uf>São Paulo</uf>
+    <populacao>126 373</populacao>
+  </row>
+  <row>
+    <ranking>241</ranking>
+    <municipio>Altamira</municipio>
+    <uf>Pará</uf>
+    <populacao>126 279</populacao>
+  </row>
+  <row>
+    <ranking>242</ranking>
+    <municipio>Barbacena</municipio>
+    <uf>Minas Gerais</uf>
+    <populacao>125 317</populacao>
+  </row>
+  <row>
+    <ranking>243</ranking>
+    <municipio>Guarapari</municipio>
+    <uf>Espírito Santo</uf>
+    <populacao>124 656</populacao>
+  </row>
+  <row>
+    <ranking>244</ranking>
+    <municipio>Ji-Paraná</municipio>
+    <uf>Rondônia</uf>
+    <populacao>124 333</populacao>
+  </row>
+  <row>
+    <ranking>245</ranking>
+    <municipio>Tatuí</municipio>
+    <uf>São Paulo</uf>
+    <populacao>123 942</populacao>
+  </row>
+  <row>
+    <ranking>246</ranking>
+    <municipio>São Mateus</municipio>
+    <uf>Espírito Santo</uf>
+    <populacao>123 752</populacao>
+  </row>
+  <row>
+    <ranking>247</ranking>
+    <municipio>Itaituba</municipio>
+    <uf>Pará</uf>
+    <populacao>123 314</populacao>
+  </row>
+  <row>
+    <ranking>248</ranking>
+    <municipio>Bento Gonçalves</municipio>
+    <uf>Rio Grande do Sul</uf>
+    <populacao>123 151</populacao>
+  </row>
+  <row>
+    <ranking>249</ranking>
+    <municipio>Bragança</municipio>
+    <uf>Pará</uf>
+    <populacao>123 082</populacao>
+  </row>
+  <row>
+    <ranking>250</ranking>
+    <municipio>Barretos</municipio>
+    <uf>São Paulo</uf>
+    <populacao>122 485</populacao>
+  </row>
+  <row>
+    <ranking>251</ranking>
+    <municipio>Itatiba</municipio>
+    <uf>São Paulo</uf>
+    <populacao>121 590</populacao>
+  </row>
+  <row>
+    <ranking>252</ranking>
+    <municipio>Colatina</municipio>
+    <uf>Espírito Santo</uf>
+    <populacao>120 033</populacao>
+  </row>
+  <row>
+    <ranking>253</ranking>
+    <municipio>Almirante Tamandaré</municipio>
+    <uf>Paraná</uf>
+    <populacao>119 825</populacao>
+  </row>
+  <row>
+    <ranking>254</ranking>
+    <municipio>Arapongas</municipio>
+    <uf>Paraná</uf>
+    <populacao>119 138</populacao>
+  </row>
+  <row>
+    <ranking>255</ranking>
+    <municipio>Birigui</municipio>
+    <uf>São Paulo</uf>
+    <populacao>118 979</populacao>
+  </row>
+  <row>
+    <ranking>256</ranking>
+    <municipio>Piraquara</municipio>
+    <uf>Paraná</uf>
+    <populacao>118 730</populacao>
+  </row>
+  <row>
+    <ranking>257</ranking>
+    <municipio>Sarandi</municipio>
+    <uf>Paraná</uf>
+    <populacao>118 455</populacao>
+  </row>
+  <row>
+    <ranking>258</ranking>
+    <municipio>Jandira</municipio>
+    <uf>São Paulo</uf>
+    <populacao>118 045</populacao>
+  </row>
+  <row>
+    <ranking>259</ranking>
+    <municipio>Guaratinguetá</municipio>
+    <uf>São Paulo</uf>
+    <populacao>118 044</populacao>
+  </row>
+  <row>
+    <ranking>260</ranking>
+    <municipio>Bagé</municipio>
+    <uf>Rio Grande do Sul</uf>
+    <populacao>117 938</populacao>
+  </row>
+  <row>
+    <ranking>261</ranking>
+    <municipio>Araguari</municipio>
+    <uf>Minas Gerais</uf>
+    <populacao>117 808</populacao>
+  </row>
+  <row>
+    <ranking>262</ranking>
+    <municipio>Uruguaiana</municipio>
+    <uf>Rio Grande do Sul</uf>
+    <populacao>117 210</populacao>
+  </row>
+  <row>
+    <ranking>263</ranking>
+    <municipio>Umuarama</municipio>
+    <uf>Paraná</uf>
+    <populacao>117 095</populacao>
+  </row>
+  <row>
+    <ranking>264</ranking>
+    <municipio>Itaguaí</municipio>
+    <uf>Rio de Janeiro</uf>
+    <populacao>116 841</populacao>
+  </row>
+  <row>
+    <ranking>265</ranking>
+    <municipio>Formosa</municipio>
+    <uf>Goiás</uf>
+    <populacao>115 901</populacao>
+  </row>
+  <row>
+    <ranking>266</ranking>
+    <municipio>São Gonçalo do Amarante</municipio>
+    <uf>Rio Grande do Norte</uf>
+    <populacao>115 838</populacao>
+  </row>
+  <row>
+    <ranking>267</ranking>
+    <municipio>Catanduva</municipio>
+    <uf>São Paulo</uf>
+    <populacao>115 791</populacao>
+  </row>
+  <row>
+    <ranking>268</ranking>
+    <municipio>Várzea Paulista</municipio>
+    <uf>São Paulo</uf>
+    <populacao>115 771</populacao>
+  </row>
+  <row>
+    <ranking>269</ranking>
+    <municipio>Ribeirão Pires</municipio>
+    <uf>São Paulo</uf>
+    <populacao>115 559</populacao>
+  </row>
+  <row>
+    <ranking>270</ranking>
+    <municipio>Igarassu</municipio>
+    <uf>Pernambuco</uf>
+    <populacao>115 196</populacao>
+  </row>
+  <row>
+    <ranking>271</ranking>
+    <municipio>Simões Filho</municipio>
+    <uf>Bahia</uf>
+    <populacao>114 559</populacao>
+  </row>
+  <row>
+    <ranking>272</ranking>
+    <municipio>Catalão</municipio>
+    <uf>Goiás</uf>
+    <populacao>114 427</populacao>
+  </row>
+  <row>
+    <ranking>273</ranking>
+    <municipio>Codó</municipio>
+    <uf>Maranhão</uf>
+    <populacao>114 275</populacao>
+  </row>
+  <row>
+    <ranking>274</ranking>
+    <municipio>Eunápolis</municipio>
+    <uf>Bahia</uf>
+    <populacao>113 710</populacao>
+  </row>
+  <row>
+    <ranking>275</ranking>
+    <municipio>Itabira</municipio>
+    <uf>Minas Gerais</uf>
+    <populacao>113 343</populacao>
+  </row>
+  <row>
+    <ranking>276</ranking>
+    <municipio>Paulo Afonso</municipio>
+    <uf>Bahia</uf>
+    <populacao>112 870</populacao>
+  </row>
+  <row>
+    <ranking>277</ranking>
+    <municipio>Itanhaém</municipio>
+    <uf>São Paulo</uf>
+    <populacao>112 476</populacao>
+  </row>
+  <row>
+    <ranking>277</ranking>
+    <municipio>Cubatão</municipio>
+    <uf>São Paulo</uf>
+    <populacao>112 476</populacao>
+  </row>
+  <row>
+    <ranking>279</ranking>
+    <municipio>Passos</municipio>
+    <uf>Minas Gerais</uf>
+    <populacao>111 939</populacao>
+  </row>
+  <row>
+    <ranking>280</ranking>
+    <municipio>Marituba</municipio>
+    <uf>Pará</uf>
+    <populacao>111 785</populacao>
+  </row>
+  <row>
+    <ranking>281</ranking>
+    <municipio>Nova Lima</municipio>
+    <uf>Minas Gerais</uf>
+    <populacao>111 697</populacao>
+  </row>
+  <row>
+    <ranking>282</ranking>
+    <municipio>Araxá</municipio>
+    <uf>Minas Gerais</uf>
+    <populacao>111 691</populacao>
+  </row>
+  <row>
+    <ranking>283</ranking>
+    <municipio>São Lourenço da Mata</municipio>
+    <uf>Pernambuco</uf>
+    <populacao>111 249</populacao>
+  </row>
+  <row>
+    <ranking>284</ranking>
+    <municipio>Sorriso</municipio>
+    <uf>Mato Grosso</uf>
+    <populacao>110 635</populacao>
+  </row>
+  <row>
+    <ranking>285</ranking>
+    <municipio>Paulínia</municipio>
+    <uf>São Paulo</uf>
+    <populacao>110 537</populacao>
+  </row>
+  <row>
+    <ranking>286</ranking>
+    <municipio>Tubarão</municipio>
+    <uf>Santa Catarina</uf>
+    <populacao>110 088</populacao>
+  </row>
+  <row>
+    <ranking>287</ranking>
+    <municipio>Itumbiara</municipio>
+    <uf>Goiás</uf>
+    <populacao>107 970</populacao>
+  </row>
+  <row>
+    <ranking>288</ranking>
+    <municipio>Luís Eduardo Magalhães</municipio>
+    <uf>Bahia</uf>
+    <populacao>107 909</populacao>
+  </row>
+  <row>
+    <ranking>289</ranking>
+    <municipio>Santana</municipio>
+    <uf>Amapá</uf>
+    <populacao>107 618</populacao>
+  </row>
+  <row>
+    <ranking>290</ranking>
+    <municipio>Cambé</municipio>
+    <uf>Paraná</uf>
+    <populacao>107 208</populacao>
+  </row>
+  <row>
+    <ranking>291</ranking>
+    <municipio>Breves</municipio>
+    <uf>Pará</uf>
+    <populacao>106 968</populacao>
+  </row>
+  <row>
+    <ranking>292</ranking>
+    <municipio>Açailândia</municipio>
+    <uf>Maranhão</uf>
+    <populacao>106 550</populacao>
+  </row>
+  <row>
+    <ranking>293</ranking>
+    <municipio>Tangará da Serra</municipio>
+    <uf>Mato Grosso</uf>
+    <populacao>106 434</populacao>
+  </row>
+  <row>
+    <ranking>294</ranking>
+    <municipio>Jataí</municipio>
+    <uf>Goiás</uf>
+    <populacao>105 729</populacao>
+  </row>
+  <row>
+    <ranking>295</ranking>
+    <municipio>Erechim</municipio>
+    <uf>Rio Grande do Sul</uf>
+    <populacao>105 705</populacao>
+  </row>
+  <row>
+    <ranking>296</ranking>
+    <municipio>Nova Serrana</municipio>
+    <uf>Minas Gerais</uf>
+    <populacao>105 552</populacao>
+  </row>
+  <row>
+    <ranking>297</ranking>
+    <municipio>Paragominas</municipio>
+    <uf>Pará</uf>
+    <populacao>105 550</populacao>
+  </row>
+  <row>
+    <ranking>298</ranking>
+    <municipio>Maranguape</municipio>
+    <uf>Ceará</uf>
+    <populacao>105 093</populacao>
+  </row>
+  <row>
+    <ranking>299</ranking>
+    <municipio>Planaltina</municipio>
+    <uf>Goiás</uf>
+    <populacao>105 031</populacao>
+  </row>
+  <row>
+    <ranking>300</ranking>
+    <municipio>Lavras</municipio>
+    <uf>Minas Gerais</uf>
+    <populacao>104 761</populacao>
+  </row>
+  <row>
+    <ranking>301</ranking>
+    <municipio>Coronel Fabriciano</municipio>
+    <uf>Minas Gerais</uf>
+    <populacao>104 736</populacao>
+  </row>
+  <row>
+    <ranking>302</ranking>
+    <municipio>Muriaé</municipio>
+    <uf>Minas Gerais</uf>
+    <populacao>104 108</populacao>
+  </row>
+  <row>
+    <ranking>303</ranking>
+    <municipio>São Pedro da Aldeia</municipio>
+    <uf>Rio de Janeiro</uf>
+    <populacao>104 029</populacao>
+  </row>
+  <row>
+    <ranking>304</ranking>
+    <municipio>Ourinhos</municipio>
+    <uf>São Paulo</uf>
+    <populacao>103 970</populacao>
+  </row>
+  <row>
+    <ranking>305</ranking>
+    <municipio>Novo Gama</municipio>
+    <uf>Goiás</uf>
+    <populacao>103 804</populacao>
+  </row>
+  <row>
+    <ranking>306</ranking>
+    <municipio>Poá</municipio>
+    <uf>São Paulo</uf>
+    <populacao>103 765</populacao>
+  </row>
+  <row>
+    <ranking>307</ranking>
+    <municipio>Bacabal</municipio>
+    <uf>Maranhão</uf>
+    <populacao>103 711</populacao>
+  </row>
+  <row>
+    <ranking>308</ranking>
+    <municipio>Itacoatiara</municipio>
+    <uf>Amazonas</uf>
+    <populacao>103 598</populacao>
+  </row>
+  <row>
+    <ranking>309</ranking>
+    <municipio>Itabaiana</municipio>
+    <uf>Sergipe</uf>
+    <populacao>103 440</populacao>
+  </row>
+  <row>
+    <ranking>310</ranking>
+    <municipio>Ubá</municipio>
+    <uf>Minas Gerais</uf>
+    <populacao>103 365</populacao>
+  </row>
+  <row>
+    <ranking>311</ranking>
+    <municipio>Patos</municipio>
+    <uf>Paraíba</uf>
+    <populacao>103 165</populacao>
+  </row>
+  <row>
+    <ranking>312</ranking>
+    <municipio>Camboriú</municipio>
+    <uf>Santa Catarina</uf>
+    <populacao>103 074</populacao>
+  </row>
+  <row>
+    <ranking>313</ranking>
+    <municipio>Santo Antônio de Jesus</municipio>
+    <uf>Bahia</uf>
+    <populacao>103 055</populacao>
+  </row>
+  <row>
+    <ranking>314</ranking>
+    <municipio>Ituiutaba</municipio>
+    <uf>Minas Gerais</uf>
+    <populacao>102 217</populacao>
+  </row>
+  <row>
+    <ranking>315</ranking>
+    <municipio>Manacapuru</municipio>
+    <uf>Amazonas</uf>
+    <populacao>101 883</populacao>
+  </row>
+  <row>
+    <ranking>316</ranking>
+    <municipio>Balsas</municipio>
+    <uf>Maranhão</uf>
+    <populacao>101 767</populacao>
+  </row>
+  <row>
+    <ranking>317</ranking>
+    <municipio>Lagarto</municipio>
+    <uf>Sergipe</uf>
+    <populacao>101 579</populacao>
+  </row>
+  <row>
+    <ranking>318</ranking>
+    <municipio>Assis</municipio>
+    <uf>São Paulo</uf>
+    <populacao>101 409</populacao>
+  </row>
+  <row>
+    <ranking>319</ranking>
+    <municipio>Itaperuna</municipio>
+    <uf>Rio de Janeiro</uf>
+    <populacao>101 041</populacao>
+  </row>
+</data>

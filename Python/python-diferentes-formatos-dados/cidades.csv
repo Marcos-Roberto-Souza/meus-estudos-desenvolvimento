@@ -1,0 +1,320 @@
+ranking,municipio,uf,populacao
+1,São Paulo,São Paulo,11 451 999
+2,Rio de Janeiro,Rio de Janeiro,6 211 223
+3,Brasília,Distrito Federal,2 817 381
+4,Fortaleza,Ceará,2 428 708
+5,Salvador,Bahia,2 417 678
+6,Belo Horizonte,Minas Gerais,2 315 560
+7,Manaus,Amazonas,2 063 689
+8,Curitiba,Paraná,1 773 718
+9,Recife,Pernambuco,1 488 920
+10,Goiânia,Goiás,1 437 366
+11,Porto Alegre,Rio Grande do Sul,1 332 845
+12,Belém,Pará,1 303 403
+13,Guarulhos,São Paulo,1 291 771
+14,Campinas,São Paulo,1 139 047
+15,São Luís,Maranhão,1 037 775
+16,Maceió,Alagoas,957 916
+17,Campo Grande,Mato Grosso do Sul,898 100
+18,São Gonçalo,Rio de Janeiro,896 744
+19,Teresina,Piauí,866 300
+20,João Pessoa,Paraíba,833 932
+21,São Bernardo do Campo,São Paulo,810 729
+22,Duque de Caxias,Rio de Janeiro,808 161
+23,Nova Iguaçu,Rio de Janeiro,785 867
+24,Natal,Rio Grande do Norte,751 300
+25,Santo André,São Paulo,748 919
+26,Osasco,São Paulo,728 615
+27,Sorocaba,São Paulo,723 682
+28,Uberlândia,Minas Gerais,713 224
+29,Ribeirão Preto,São Paulo,698 642
+30,São José dos Campos,São Paulo,697 054
+31,Cuiabá,Mato Grosso,650 877
+32,Jaboatão dos Guararapes,Pernambuco,644 037
+33,Contagem,Minas Gerais,621 863
+34,Joinville,Santa Catarina,616 317
+35,Feira de Santana,Bahia,616 272
+36,Aracaju,Sergipe,602 757
+37,Londrina,Paraná,555 965
+38,Juiz de Fora,Minas Gerais,540 756
+39,Florianópolis,Santa Catarina,537 211
+40,Aparecida de Goiânia,Goiás,527 796
+41,Serra,Espírito Santo,520 653
+42,Campos dos Goytacazes,Rio de Janeiro,483 540
+43,Belford Roxo,Rio de Janeiro,483 087
+44,Niterói,Rio de Janeiro,481 749
+45,São José do Rio Preto,São Paulo,480 393
+46,Ananindeua,Pará,478 778
+47,Vila Velha,Espírito Santo,467 722
+48,Caxias do Sul,Rio Grande do Sul,463 501
+49,Porto Velho,Rondônia,460 434
+50,Mogi das Cruzes,São Paulo,451 505
+51,Jundiaí,São Paulo,443 221
+52,Macapá,Amapá,442 933
+53,São João de Meriti,Rio de Janeiro,440 962
+54,Piracicaba,São Paulo,423 323
+55,Campina Grande,Paraíba,419 379
+56,Santos,São Paulo,418 608
+57,Mauá,São Paulo,418 261
+58,Montes Claros,Minas Gerais,414 240
+59,Boa Vista,Roraima,413 486
+60,Betim,Minas Gerais,411 846
+61,Maringá,Paraná,409 657
+62,Anápolis,Goiás,398 869
+63,Diadema,São Paulo,393 237
+64,Carapicuíba,São Paulo,386 984
+65,Petrolina,Pernambuco,386 791
+66,Bauru,São Paulo,379 146
+67,Caruaru,Pernambuco,378 048
+68,Vitória da Conquista,Bahia,370 879
+69,Itaquaquecetuba,São Paulo,369 275
+70,Rio Branco,Acre,364 756
+71,Blumenau,Santa Catarina,361 261
+72,Ponta Grossa,Paraná,358 371
+73,Caucaia,Ceará,355 679
+74,Cariacica,Espírito Santo,353 491
+75,Franca,São Paulo,352 536
+76,Olinda,Pernambuco,349 976
+77,Praia Grande,São Paulo,349 935
+78,Cascavel,Paraná,348 051
+79,Canoas,Rio Grande do Sul,347 657
+80,Paulista,Pernambuco,342 167
+81,Uberaba,Minas Gerais,337 836
+82,Santarém,Pará,331 942
+83,São Vicente,São Paulo,329 911
+84,Ribeirão das Neves,Minas Gerais,329 794
+85,São José dos Pinhais,Paraná,329 628
+86,Pelotas,Rio Grande do Sul,325 685
+87,Vitória,Espírito Santo,322 869
+88,Barueri,São Paulo,316 473
+89,Taubaté,São Paulo,310 739
+90,Suzano,São Paulo,307 429
+91,Palmas,Tocantins,302 692
+92,Camaçari,Bahia,300 372
+93,Várzea Grande,Mato Grosso,300 078
+94,Limeira,São Paulo,291 869
+95,Guarujá,São Paulo,287 634
+96,Juazeiro do Norte,Ceará,286 120
+97,Foz do Iguaçu,Paraná,285 415
+98,Sumaré,São Paulo,279 545
+99,Petrópolis,Rio de Janeiro,278 881
+100,Cotia,São Paulo,274 413
+101,Taboão da Serra,São Paulo,273 542
+102,Imperatriz,Maranhão,273 110
+103,Santa Maria,Rio Grande do Sul,271 735
+104,São José,Santa Catarina,270 299
+105,Parauapebas,Pará,267 836
+106,Marabá,Pará,266 533
+107,Gravataí,Rio Grande do Sul,265 074
+108,Mossoró,Rio Grande do Norte,264 577
+109,Itajaí,Santa Catarina,264 054
+110,Volta Redonda,Rio de Janeiro,261 563
+111,Governador Valadares,Minas Gerais,257 171
+112,Indaiatuba,São Paulo,255 748
+113,São Carlos,São Paulo,254 857
+114,Chapecó,Santa Catarina,254 785
+115,Parnamirim,Rio Grande do Norte,252 716
+116,Embu das Artes,São Paulo,250 691
+117,Macaé,Rio de Janeiro,246 391
+118,Rondonópolis,Mato Grosso,244 911
+119,São José de Ribamar,Maranhão,244 579
+120,Dourados,Mato Grosso do Sul,243 367
+121,Araraquara,São Paulo,242 228
+122,Jacareí,São Paulo,240 275
+123,Juazeiro,Bahia,237 821
+124,Marília,São Paulo,237 627
+125,Americana,São Paulo,237 240
+126,Hortolândia,São Paulo,236 641
+127,Arapiraca,Alagoas,234 696
+128,Maracanaú,Ceará,234 509
+129,Itapevi,São Paulo,232 297
+130,Colombo,Paraná,232 212
+131,Divinópolis,Minas Gerais,231 091
+132,Magé,Rio de Janeiro,228 127
+133,Ipatinga,Minas Gerais,227 731
+134,Novo Hamburgo,Rio Grande do Sul,227 646
+135,Sete Lagoas,Minas Gerais,227 397
+136,Rio Verde,Goiás,225 696
+137,Águas Lindas de Goiás,Goiás,225 693
+138,Presidente Prudente,São Paulo,225 668
+139,Itaboraí,Rio de Janeiro,224 267
+140,Viamão,Rio Grande do Sul,224 112
+141,Palhoça,Santa Catarina,222 598
+142,Cabo Frio,Rio de Janeiro,222 161
+143,Santa Luzia,Minas Gerais,219 132
+144,São Leopoldo,Rio Grande do Sul,217 409
+145,Criciúma,Santa Catarina,214 493
+146,Luziânia,Goiás,209 129
+147,Passo Fundo,Rio Grande do Sul,206 215
+148,Cabo de Santo Agostinho,Pernambuco,203 440
+149,Lauro de Freitas,Bahia,203 331
+150,Sobral,Ceará,203 023
+151,Rio Claro,São Paulo,201 418
+152,Araçatuba,São Paulo,200 124
+153,Valparaíso de Goiás,Goiás,198 861
+154,Maricá,Rio de Janeiro,197 277
+155,Sinop,Mato Grosso,196 312
+156,Nossa Senhora do Socorro,Sergipe,192 330
+157,Castanhal,Pará,192 256
+158,Rio Grande,Rio Grande do Sul,191 900
+159,Nova Friburgo,Rio de Janeiro,189 939
+160,Alvorada,Rio Grande do Sul,187 315
+161,Itabuna,Bahia,186 708
+162,Cachoeiro de Itapemirim,Espírito Santo,185 786
+163,Santa Bárbara d'Oeste,São Paulo,183 347
+164,Jaraguá do Sul,Santa Catarina,182 660
+165,Guarapuava,Paraná,182 093
+166,Ferraz de Vasconcelos,São Paulo,179 198
+167,Ilhéus,Bahia,178 649
+168,Bragança Paulista,São Paulo,176 811
+169,Timon,Maranhão,174 465
+170,Araguaína,Tocantins,171 301
+171,Ibirité,Minas Gerais,170 537
+172,Barra Mansa,Rio de Janeiro,169 894
+173,Porto Seguro,Bahia,168 326
+174,Itu,São Paulo,168 240
+175,Angra dos Reis,Rio de Janeiro,167 434
+176,Mesquita,Rio de Janeiro,167 127
+177,Linhares,Espírito Santo,166 786
+178,São Caetano do Sul,São Paulo,165 655
+179,Pindamonhangaba,São Paulo,165 428
+180,Francisco Morato,São Paulo,165 139
+181,Teresópolis,Rio de Janeiro,165 123
+182,Lages,Santa Catarina,164 981
+183,Poços de Caldas,Minas Gerais,163 742
+184,Parnaíba,Piauí,162 159
+185,Barreiras,Bahia,159 734
+186,Patos de Minas,Minas Gerais,159 235
+187,Jequié,Bahia,158 813
+188,Atibaia,São Paulo,158 647
+189,Itapecerica da Serra,São Paulo,158 522
+190,Abaetetuba,Pará,158 188
+191,Itapetininga,São Paulo,157 790
+192,Caxias,Maranhão,156 973
+193,Rio das Ostras,Rio de Janeiro,156 491
+194,Senador Canedo,Goiás,155 635
+195,Santana de Parnaíba,São Paulo,154 105
+196,Mogi Guaçu,São Paulo,153 658
+197,Pouso Alegre,Minas Gerais,152 217
+198,Araucária,Paraná,151 666
+199,Alagoinhas,Bahia,151 055
+200,Toledo,Paraná,150 470
+201,Santa Rita,Paraíba,149 910
+202,Fazenda Rio Grande,Paraná,148 873
+203,Camaragibe,Pernambuco,147 771
+204,Nilópolis,Rio de Janeiro,146 774
+205,Paranaguá,Paraná,145 829
+206,Paço do Lumiar,Maranhão,145 643
+207,Teixeira de Freitas,Bahia,145 216
+208,Botucatu,São Paulo,145 155
+209,Franco da Rocha,São Paulo,144 849
+210,Garanhuns,Pernambuco,142 506
+211,Trindade,Goiás,142 431
+212,Brusque,Santa Catarina,141 385
+213,Queimados,Rio de Janeiro,140 523
+214,Balneário Camboriú,Santa Catarina,139 155
+215,Teófilo Otoni,Minas Gerais,137 418
+216,Varginha,Minas Gerais,136 467
+217,Campo Largo,Paraná,136 327
+218,Cachoeirinha,Rio Grande do Sul,136 258
+219,Caraguatatuba,São Paulo,134 873
+220,Salto,São Paulo,134 319
+221,Cametá,Pará,134 184
+222,Vitória de Santo Antão,Pernambuco,134 084
+223,Jaú,São Paulo,133 497
+224,Santa Cruz do Sul,Rio Grande do Sul,133 230
+225,Três Lagoas,Mato Grosso do Sul,132 152
+226,Sapucaia do Sul,Rio Grande do Sul,132 107
+227,Conselheiro Lafaiete,Minas Gerais,131 621
+228,Itapipoca,Ceará,131 123
+229,Crato,Ceará,131 050
+230,Araras,São Paulo,130 866
+231,Apucarana,Paraná,130 134
+232,Araruama,Rio de Janeiro,129 671
+233,Resende,Rio de Janeiro,129 612
+234,Sabará,Minas Gerais,129 380
+235,Vespasiano,Minas Gerais,129 246
+236,Votorantim,São Paulo,127 923
+237,Pinhais,Paraná,127 019
+238,Sertãozinho,São Paulo,126 887
+239,Barcarena,Pará,126 650
+240,Valinhos,São Paulo,126 373
+241,Altamira,Pará,126 279
+242,Barbacena,Minas Gerais,125 317
+243,Guarapari,Espírito Santo,124 656
+244,Ji-Paraná,Rondônia,124 333
+245,Tatuí,São Paulo,123 942
+246,São Mateus,Espírito Santo,123 752
+247,Itaituba,Pará,123 314
+248,Bento Gonçalves,Rio Grande do Sul,123 151
+249,Bragança,Pará,123 082
+250,Barretos,São Paulo,122 485
+251,Itatiba,São Paulo,121 590
+252,Colatina,Espírito Santo,120 033
+253,Almirante Tamandaré,Paraná,119 825
+254,Arapongas,Paraná,119 138
+255,Birigui,São Paulo,118 979
+256,Piraquara,Paraná,118 730
+257,Sarandi,Paraná,118 455
+258,Jandira,São Paulo,118 045
+259,Guaratinguetá,São Paulo,118 044
+260,Bagé,Rio Grande do Sul,117 938
+261,Araguari,Minas Gerais,117 808
+262,Uruguaiana,Rio Grande do Sul,117 210
+263,Umuarama,Paraná,117 095
+264,Itaguaí,Rio de Janeiro,116 841
+265,Formosa,Goiás,115 901
+266,São Gonçalo do Amarante,Rio Grande do Norte,115 838
+267,Catanduva,São Paulo,115 791
+268,Várzea Paulista,São Paulo,115 771
+269,Ribeirão Pires,São Paulo,115 559
+270,Igarassu,Pernambuco,115 196
+271,Simões Filho,Bahia,114 559
+272,Catalão,Goiás,114 427
+273,Codó,Maranhão,114 275
+274,Eunápolis,Bahia,113 710
+275,Itabira,Minas Gerais,113 343
+276,Paulo Afonso,Bahia,112 870
+277,Itanhaém,São Paulo,112 476
+277,Cubatão,São Paulo,112 476
+279,Passos,Minas Gerais,111 939
+280,Marituba,Pará,111 785
+281,Nova Lima,Minas Gerais,111 697
+282,Araxá,Minas Gerais,111 691
+283,São Lourenço da Mata,Pernambuco,111 249
+284,Sorriso,Mato Grosso,110 635
+285,Paulínia,São Paulo,110 537
+286,Tubarão,Santa Catarina,110 088
+287,Itumbiara,Goiás,107 970
+288,Luís Eduardo Magalhães,Bahia,107 909
+289,Santana,Amapá,107 618
+290,Cambé,Paraná,107 208
+291,Breves,Pará,106 968
+292,Açailândia,Maranhão,106 550
+293,Tangará da Serra,Mato Grosso,106 434
+294,Jataí,Goiás,105 729
+295,Erechim,Rio Grande do Sul,105 705
+296,Nova Serrana,Minas Gerais,105 552
+297,Paragominas,Pará,105 550
+298,Maranguape,Ceará,105 093
+299,Planaltina,Goiás,105 031
+300,Lavras,Minas Gerais,104 761
+301,Coronel Fabriciano,Minas Gerais,104 736
+302,Muriaé,Minas Gerais,104 108
+303,São Pedro da Aldeia,Rio de Janeiro,104 029
+304,Ourinhos,São Paulo,103 970
+305,Novo Gama,Goiás,103 804
+306,Poá,São Paulo,103 765
+307,Bacabal,Maranhão,103 711
+308,Itacoatiara,Amazonas,103 598
+309,Itabaiana,Sergipe,103 440
+310,Ubá,Minas Gerais,103 365
+311,Patos,Paraíba,103 165
+312,Camboriú,Santa Catarina,103 074
+313,Santo Antônio de Jesus,Bahia,103 055
+314,Ituiutaba,Minas Gerais,102 217
+315,Manacapuru,Amazonas,101 883
+316,Balsas,Maranhão,101 767
+317,Lagarto,Sergipe,101 579
+318,Assis,São Paulo,101 409
+319,Itaperuna,Rio de Janeiro,101 041

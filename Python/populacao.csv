@@ -1,0 +1,320 @@
+ranking,municipio,uf,populacao
+1,São Paulo,São Paulo,11451999
+2,Rio de Janeiro,Rio de Janeiro,6211223
+3,Brasília,Distrito Federal,2817381
+4,Fortaleza,Ceará,2428708
+5,Salvador,Bahia,2417678
+6,Belo Horizonte,Minas Gerais,2315560
+7,Manaus,Amazonas,2063689
+8,Curitiba,Paraná,1773718
+9,Recife,Pernambuco,1488920
+10,Goiânia,Goiás,1437366
+11,Porto Alegre,Rio Grande do Sul,1332845
+12,Belém,Pará,1303403
+13,Guarulhos,São Paulo,1291771
+14,Campinas,São Paulo,1139047
+15,São Luís,Maranhão,1037775
+16,Maceió,Alagoas,957916
+17,Campo Grande,Mato Grosso do Sul,898100
+18,São Gonçalo,Rio de Janeiro,896744
+19,Teresina,Piauí,866300
+20,João Pessoa,Paraíba,833932
+21,São Bernardo do Campo,São Paulo,810729
+22,Duque de Caxias,Rio de Janeiro,808161
+23,Nova Iguaçu,Rio de Janeiro,785867
+24,Natal,Rio Grande do Norte,751300
+25,Santo André,São Paulo,748919
+26,Osasco,São Paulo,728615
+27,Sorocaba,São Paulo,723682
+28,Uberlândia,Minas Gerais,713224
+29,Ribeirão Preto,São Paulo,698642
+30,São José dos Campos,São Paulo,697054
+31,Cuiabá,Mato Grosso,650877
+32,Jaboatão dos Guararapes,Pernambuco,644037
+33,Contagem,Minas Gerais,621863
+34,Joinville,Santa Catarina,616317
+35,Feira de Santana,Bahia,616272
+36,Aracaju,Sergipe,602757
+37,Londrina,Paraná,555965
+38,Juiz de Fora,Minas Gerais,540756
+39,Florianópolis,Santa Catarina,537211
+40,Aparecida de Goiânia,Goiás,527796
+41,Serra,Espírito Santo,520653
+42,Campos dos Goytacazes,Rio de Janeiro,483540
+43,Belford Roxo,Rio de Janeiro,483087
+44,Niterói,Rio de Janeiro,481749
+45,São José do Rio Preto,São Paulo,480393
+46,Ananindeua,Pará,478778
+47,Vila Velha,Espírito Santo,467722
+48,Caxias do Sul,Rio Grande do Sul,463501
+49,Porto Velho,Rondônia,460434
+50,Mogi das Cruzes,São Paulo,451505
+51,Jundiaí,São Paulo,443221
+52,Macapá,Amapá,442933
+53,São João de Meriti,Rio de Janeiro,440962
+54,Piracicaba,São Paulo,423323
+55,Campina Grande,Paraíba,419379
+56,Santos,São Paulo,418608
+57,Mauá,São Paulo,418261
+58,Montes Claros,Minas Gerais,414240
+59,Boa Vista,Roraima,413486
+60,Betim,Minas Gerais,411846
+61,Maringá,Paraná,409657
+62,Anápolis,Goiás,398869
+63,Diadema,São Paulo,393237
+64,Carapicuíba,São Paulo,386984
+65,Petrolina,Pernambuco,386791
+66,Bauru,São Paulo,379146
+67,Caruaru,Pernambuco,378048
+68,Vitória da Conquista,Bahia,370879
+69,Itaquaquecetuba,São Paulo,369275
+70,Rio Branco,Acre,364756
+71,Blumenau,Santa Catarina,361261
+72,Ponta Grossa,Paraná,358371
+73,Caucaia,Ceará,355679
+74,Cariacica,Espírito Santo,353491
+75,Franca,São Paulo,352536
+76,Olinda,Pernambuco,349976
+77,Praia Grande,São Paulo,349935
+78,Cascavel,Paraná,348051
+79,Canoas,Rio Grande do Sul,347657
+80,Paulista,Pernambuco,342167
+81,Uberaba,Minas Gerais,337836
+82,Santarém,Pará,331942
+83,São Vicente,São Paulo,329911
+84,Ribeirão das Neves,Minas Gerais,329794
+85,São José dos Pinhais,Paraná,329628
+86,Pelotas,Rio Grande do Sul,325685
+87,Vitória,Espírito Santo,322869
+88,Barueri,São Paulo,316473
+89,Taubaté,São Paulo,310739
+90,Suzano,São Paulo,307429
+91,Palmas,Tocantins,302692
+92,Camaçari,Bahia,300372
+93,Várzea Grande,Mato Grosso,300078
+94,Limeira,São Paulo,291869
+95,Guarujá,São Paulo,287634
+96,Juazeiro do Norte,Ceará,286120
+97,Foz do Iguaçu,Paraná,285415
+98,Sumaré,São Paulo,279545
+99,Petrópolis,Rio de Janeiro,278881
+100,Cotia,São Paulo,274413
+101,Taboão da Serra,São Paulo,273542
+102,Imperatriz,Maranhão,273110
+103,Santa Maria,Rio Grande do Sul,271735
+104,São José,Santa Catarina,270299
+105,Parauapebas,Pará,267836
+106,Marabá,Pará,266533
+107,Gravataí,Rio Grande do Sul,265074
+108,Mossoró,Rio Grande do Norte,264577
+109,Itajaí,Santa Catarina,264054
+110,Volta Redonda,Rio de Janeiro,261563
+111,Governador Valadares,Minas Gerais,257171
+112,Indaiatuba,São Paulo,255748
+113,São Carlos,São Paulo,254857
+114,Chapecó,Santa Catarina,254785
+115,Parnamirim,Rio Grande do Norte,252716
+116,Embu das Artes,São Paulo,250691
+117,Macaé,Rio de Janeiro,246391
+118,Rondonópolis,Mato Grosso,244911
+119,São José de Ribamar,Maranhão,244579
+120,Dourados,Mato Grosso do Sul,243367
+121,Araraquara,São Paulo,242228
+122,Jacareí,São Paulo,240275
+123,Juazeiro,Bahia,237821
+124,Marília,São Paulo,237627
+125,Americana,São Paulo,237240
+126,Hortolândia,São Paulo,236641
+127,Arapiraca,Alagoas,234696
+128,Maracanaú,Ceará,234509
+129,Itapevi,São Paulo,232297
+130,Colombo,Paraná,232212
+131,Divinópolis,Minas Gerais,231091
+132,Magé,Rio de Janeiro,228127
+133,Ipatinga,Minas Gerais,227731
+134,Novo Hamburgo,Rio Grande do Sul,227646
+135,Sete Lagoas,Minas Gerais,227397
+136,Rio Verde,Goiás,225696
+137,Águas Lindas de Goiás,Goiás,225693
+138,Presidente Prudente,São Paulo,225668
+139,Itaboraí,Rio de Janeiro,224267
+140,Viamão,Rio Grande do Sul,224112
+141,Palhoça,Santa Catarina,222598
+142,Cabo Frio,Rio de Janeiro,222161
+143,Santa Luzia,Minas Gerais,219132
+144,São Leopoldo,Rio Grande do Sul,217409
+145,Criciúma,Santa Catarina,214493
+146,Luziânia,Goiás,209129
+147,Passo Fundo,Rio Grande do Sul,206215
+148,Cabo de Santo Agostinho,Pernambuco,203440
+149,Lauro de Freitas,Bahia,203331
+150,Sobral,Ceará,203023
+151,Rio Claro,São Paulo,201418
+152,Araçatuba,São Paulo,200124
+153,Valparaíso de Goiás,Goiás,198861
+154,Maricá,Rio de Janeiro,197277
+155,Sinop,Mato Grosso,196312
+156,Nossa Senhora do Socorro,Sergipe,192330
+157,Castanhal,Pará,192256
+158,Rio Grande,Rio Grande do Sul,191900
+159,Nova Friburgo,Rio de Janeiro,189939
+160,Alvorada,Rio Grande do Sul,187315
+161,Itabuna,Bahia,186708
+162,Cachoeiro de Itapemirim,Espírito Santo,185786
+163,Santa Bárbara d'Oeste,São Paulo,183347
+164,Jaraguá do Sul,Santa Catarina,182660
+165,Guarapuava,Paraná,182093
+166,Ferraz de Vasconcelos,São Paulo,179198
+167,Ilhéus,Bahia,178649
+168,Bragança Paulista,São Paulo,176811
+169,Timon,Maranhão,174465
+170,Araguaína,Tocantins,171301
+171,Ibirité,Minas Gerais,170537
+172,Barra Mansa,Rio de Janeiro,169894
+173,Porto Seguro,Bahia,168326
+174,Itu,São Paulo,168240
+175,Angra dos Reis,Rio de Janeiro,167434
+176,Mesquita,Rio de Janeiro,167127
+177,Linhares,Espírito Santo,166786
+178,São Caetano do Sul,São Paulo,165655
+179,Pindamonhangaba,São Paulo,165428
+180,Francisco Morato,São Paulo,165139
+181,Teresópolis,Rio de Janeiro,165123
+182,Lages,Santa Catarina,164981
+183,Poços de Caldas,Minas Gerais,163742
+184,Parnaíba,Piauí,162159
+185,Barreiras,Bahia,159734
+186,Patos de Minas,Minas Gerais,159235
+187,Jequié,Bahia,158813
+188,Atibaia,São Paulo,158647
+189,Itapecerica da Serra,São Paulo,158522
+190,Abaetetuba,Pará,158188
+191,Itapetininga,São Paulo,157790
+192,Caxias,Maranhão,156973
+193,Rio das Ostras,Rio de Janeiro,156491
+194,Senador Canedo,Goiás,155635
+195,Santana de Parnaíba,São Paulo,154105
+196,Mogi Guaçu,São Paulo,153658
+197,Pouso Alegre,Minas Gerais,152217
+198,Araucária,Paraná,151666
+199,Alagoinhas,Bahia,151055
+200,Toledo,Paraná,150470
+201,Santa Rita,Paraíba,149910
+202,Fazenda Rio Grande,Paraná,148873
+203,Camaragibe,Pernambuco,147771
+204,Nilópolis,Rio de Janeiro,146774
+205,Paranaguá,Paraná,145829
+206,Paço do Lumiar,Maranhão,145643
+207,Teixeira de Freitas,Bahia,145216
+208,Botucatu,São Paulo,145155
+209,Franco da Rocha,São Paulo,144849
+210,Garanhuns,Pernambuco,142506
+211,Trindade,Goiás,142431
+212,Brusque,Santa Catarina,141385
+213,Queimados,Rio de Janeiro,140523
+214,Balneário Camboriú,Santa Catarina,139155
+215,Teófilo Otoni,Minas Gerais,137418
+216,Varginha,Minas Gerais,136467
+217,Campo Largo,Paraná,136327
+218,Cachoeirinha,Rio Grande do Sul,136258
+219,Caraguatatuba,São Paulo,134873
+220,Salto,São Paulo,134319
+221,Cametá,Pará,134184
+222,Vitória de Santo Antão,Pernambuco,134084
+223,Jaú,São Paulo,133497
+224,Santa Cruz do Sul,Rio Grande do Sul,133230
+225,Três Lagoas,Mato Grosso do Sul,132152
+226,Sapucaia do Sul,Rio Grande do Sul,132107
+227,Conselheiro Lafaiete,Minas Gerais,131621
+228,Itapipoca,Ceará,131123
+229,Crato,Ceará,131050
+230,Araras,São Paulo,130866
+231,Apucarana,Paraná,130134
+232,Araruama,Rio de Janeiro,129671
+233,Resende,Rio de Janeiro,129612
+234,Sabará,Minas Gerais,129380
+235,Vespasiano,Minas Gerais,129246
+236,Votorantim,São Paulo,127923
+237,Pinhais,Paraná,127019
+238,Sertãozinho,São Paulo,126887
+239,Barcarena,Pará,126650
+240,Valinhos,São Paulo,126373
+241,Altamira,Pará,126279
+242,Barbacena,Minas Gerais,125317
+243,Guarapari,Espírito Santo,124656
+244,Ji-Paraná,Rondônia,124333
+245,Tatuí,São Paulo,123942
+246,São Mateus,Espírito Santo,123752
+247,Itaituba,Pará,123314
+248,Bento Gonçalves,Rio Grande do Sul,123151
+249,Bragança,Pará,123082
+250,Barretos,São Paulo,122485
+251,Itatiba,São Paulo,121590
+252,Colatina,Espírito Santo,120033
+253,Almirante Tamandaré,Paraná,119825
+254,Arapongas,Paraná,119138
+255,Birigui,São Paulo,118979
+256,Piraquara,Paraná,118730
+257,Sarandi,Paraná,118455
+258,Jandira,São Paulo,118045
+259,Guaratinguetá,São Paulo,118044
+260,Bagé,Rio Grande do Sul,117938
+261,Araguari,Minas Gerais,117808
+262,Uruguaiana,Rio Grande do Sul,117210
+263,Umuarama,Paraná,117095
+264,Itaguaí,Rio de Janeiro,116841
+265,Formosa,Goiás,115901
+266,São Gonçalo do Amarante,Rio Grande do Norte,115838
+267,Catanduva,São Paulo,115791
+268,Várzea Paulista,São Paulo,115771
+269,Ribeirão Pires,São Paulo,115559
+270,Igarassu,Pernambuco,115196
+271,Simões Filho,Bahia,114559
+272,Catalão,Goiás,114427
+273,Codó,Maranhão,114275
+274,Eunápolis,Bahia,113710
+275,Itabira,Minas Gerais,113343
+276,Paulo Afonso,Bahia,112870
+277,Itanhaém,São Paulo,112476
+277,Cubatão,São Paulo,112476
+279,Passos,Minas Gerais,111939
+280,Marituba,Pará,111785
+281,Nova Lima,Minas Gerais,111697
+282,Araxá,Minas Gerais,111691
+283,São Lourenço da Mata,Pernambuco,111249
+284,Sorriso,Mato Grosso,110635
+285,Paulínia,São Paulo,110537
+286,Tubarão,Santa Catarina,110088
+287,Itumbiara,Goiás,107970
+288,Luís Eduardo Magalhães,Bahia,107909
+289,Santana,Amapá,107618
+290,Cambé,Paraná,107208
+291,Breves,Pará,106968
+292,Açailândia,Maranhão,106550
+293,Tangará da Serra,Mato Grosso,106434
+294,Jataí,Goiás,105729
+295,Erechim,Rio Grande do Sul,105705
+296,Nova Serrana,Minas Gerais,105552
+297,Paragominas,Pará,105550
+298,Maranguape,Ceará,105093
+299,Planaltina,Goiás,105031
+300,Lavras,Minas Gerais,104761
+301,Coronel Fabriciano,Minas Gerais,104736
+302,Muriaé,Minas Gerais,104108
+303,São Pedro da Aldeia,Rio de Janeiro,104029
+304,Ourinhos,São Paulo,103970
+305,Novo Gama,Goiás,103804
+306,Poá,São Paulo,103765
+307,Bacabal,Maranhão,103711
+308,Itacoatiara,Amazonas,103598
+309,Itabaiana,Sergipe,103440
+310,Ubá,Minas Gerais,103365
+311,Patos,Paraíba,103165
+312,Camboriú,Santa Catarina,103074
+313,Santo Antônio de Jesus,Bahia,103055
+314,Ituiutaba,Minas Gerais,102217
+315,Manacapuru,Amazonas,101883
+316,Balsas,Maranhão,101767
+317,Lagarto,Sergipe,101579
+318,Assis,São Paulo,101409
+319,Itaperuna,Rio de Janeiro,101041
